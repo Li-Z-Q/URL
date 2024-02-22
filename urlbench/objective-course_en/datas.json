@@ -1,0 +1,2307 @@
+[
+    {
+        "id": 0,
+        "name": "汉语言文学专业",
+        "context": "This major mainly cultivates talents in the research of Chinese language and literature. It focuses on enhancing students' aesthetic appreciation and discernment in literature, their ability to analyze literary phenomena, and comprehensive training in writing skills. Graduates can continue their studies in postgraduate programs or work in various sectors such as government agencies, education, journalism and publishing, cultural arts, and international exchange.",
+        "ann": [
+            96,
+            97,
+            98,
+            100,
+            101,
+            102,
+            103,
+            105,
+            106,
+            111,
+            112,
+            113,
+            114,
+            95
+        ],
+        "zh_context": "本专业主要培养汉语言文学的学科研究人才。注重学生文艺审美能力和鉴赏品味的提升、对文学现象的分析把握能力以及写作能力的综合培养,毕业后可继续攻读研究生,也可在国家机关和教育、新闻出版、文化艺术、对外交流等各类单位工作。"
+    },
+    {
+        "id": 1,
+        "name": "汉语言专业",
+        "context": "This major primarily cultivates talents in language research and language teaching. It focuses on cultivating research and teaching personnel in Chinese linguistics and researchers in Chinese information processing technology and theory for computers. Graduates can also work in various public institutions and industries such as government agencies, education, news publishing, culture and arts, and foreign exchange.",
+        "ann": [
+            0,
+            97,
+            99,
+            102,
+            104,
+            111,
+            115,
+            116,
+            117,
+            118,
+            120,
+            121,
+            122,
+            95
+        ],
+        "zh_context": "本专业主要培养语言研究和语言教学人才。侧重培养汉语语言学的研究教学人员,面向计算机的中文信息处理技术与理论方向的研究人员,也可在国家机关和教育、新闻出版、文化艺术、对外交流等各类个事业单位工作。"
+    },
+    {
+        "id": 2,
+        "name": "汉语言文学专业 留学生",
+        "context": "This major mainly cultivates talents in the application and research of Chinese language and literature. It focuses on developing students' proficiency in Chinese language usage, as well as their analytical skills in understanding the phenomena of Chinese literature, the history and current situation of the Chinese language. After graduation, graduates can engage in various careers related to Chinese affairs, such as writing, translation, teaching, journalism, publishing, film and television, and foreign teacher jobs. They can also continue to pursue postgraduate studies to lay a solid foundation for future careers in teaching and research in Chinese language and literature.",
+        "ann": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            105,
+            106,
+            111,
+            112,
+            113,
+            114,
+            95
+        ],
+        "zh_context": "本专业主要培养中国语言与文学方面的运用和研究人才。注重培养学生汉语应用能力,以及对中国文学现象、汉语言历史和现状的分析把握能力。毕业后可从事有关中国事务的写作、翻译、教学、新闻、出版、影视与外教等工作,也可继续攻读研究生,为将来从事中国语言与文学的教学与研究工作打下坚实的基础。"
+    },
+    {
+        "id": 3,
+        "name": "古典文献学专业",
+        "context": "Students in this major should have a comprehensive understanding of the basic knowledge and theories in Chinese language and literature, and possess the preliminary ability to conduct professional research or work in related fields. They should have a high level of overall cultural literacy, a solid foundation in literature and history, a broad cultural perspective, strong language expression abilities, and a certain level of proficiency in a foreign language. Furthermore, they should have the ability to constantly acquire new knowledge in order to meet the needs of modern society for well-rounded talent.",
+        "ann": [
+            96,
+            97,
+            102,
+            103,
+            111,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            95
+        ],
+        "zh_context": "本专业学生应系统掌握中国语言文学方面的基础知识、基础理论,初步具备进行专业研究或从事相关领域工作的能力。应具备较高的整体文化素养,有较坚实的文史基础以及较宽广的文化视野,有较强的语言表达能力和一定的外语水平,以及不断获取新知识的能力,以适应现代社会对全面发展的新型人才的需要。"
+    },
+    {
+        "id": 4,
+        "name": "应用语言学专业",
+        "context": "Undergraduate students majoring in applied linguistics should have a systematic understanding of the fundamental knowledge in Chinese language and linguistics, as well as a solid grasp of natural science foundations related to computer natural language information processing, artificial intelligence, etc. They should possess strong writing skills and proficiency in foreign languages. They should also possess the ability to conduct scientific research and practice in computer information processing and Chinese language teaching. Ultimately, they should become versatile individuals with a high level of both humanistic and natural science literacy, and excel in interdisciplinary studies.",
+        "ann": [
+            128,
+            1,
+            130,
+            129,
+            102,
+            103,
+            107,
+            108,
+            109,
+            110,
+            111,
+            116
+        ],
+        "zh_context": "应用语言学专业本科学生应比较系统地掌握汉语言文字学的基础知识,比较系统地掌握与计算机自然语言信息处理、人工智能等相关的自然科学基础知识,具有较高的写作能力和外语水平,具有面向计算机信息处理和面向汉语教学开展科学研究和实践的能力,成为具备较高的人文科学素养和自然科学素养、在文理跨学科交叉方面全面发展的复合型人才。"
+    },
+    {
+        "id": 5,
+        "name": "历史学 中国史 专业",
+        "context": "Through four years of study, undergraduate students majoring in history should have a good grasp of the general development process of Chinese civilization and the basic methods, academic history, and latest developments in Chinese historical research. They should also have a solid foundation in historical theory, foreign languages, and historical source studies, as well as the ability to conduct further research in history and academic writing. They should possess independent thinking and innovative abilities, as well as the ability to adapt to different professional needs in society.",
+        "ann": [
+            133,
+            134,
+            135,
+            140,
+            141
+        ],
+        "zh_context": "通过四年的学习,历史学专业本科生应较好地掌握中国文明的一般发展历程和中国历史研究的基本方法、学术史和最新动态,在史学理论、外国语、史料学等方面有良好的学 科基础训练,有扎实的进一步进行史学研究和学术写作的能力,有独立思考和创新的能力,以及较强的适应社会不同职业需要的能力。"
+    },
+    {
+        "id": 6,
+        "name": "外国语言与外国历史专业 外国历史（部分）",
+        "context": "After four years of study, students majoring in Foreign Language and Foreign History will be able to proficiently use the studied foreign language for communication, with good listening, speaking, reading, writing, and translation skills. They will also gain a basic understanding of world history, including the general development of human civilization, the basic methods of world history research and their academic history, as well as the latest trends in this field. Additionally, they will have a deep understanding of the history, culture, politics, and society of countries and regions related to the studied language. They will possess strong independent research and practical work abilities. The education in Foreign Language and Foreign History combines general education with professional education and emphasizes the cultivation of independent thinking and innovation abilities. Students who complete the four-year undergraduate program with satisfactory grades and credit requirements can be awarded a Bachelor's degree in Literature or History, depending on their course focus and personal preference.",
+        "ann": [
+            2,
+            133,
+            134,
+            135,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157
+        ],
+        "zh_context": "过四年的学习,在语言方面,使本专业学生能够比较熟练地运用所修外国语言进行交流,具备较好的听、说、读、写、译等综合能力;并通过学习世界历史的基本知识,了解人类文明的一般发展历程和世界历史研究的基本方法、学术史和最新动态,同时对该语种相关国家和地区的历史、文化、政治、社会的概貌与特点有比较深入的认识,有较强的独立研究或实际工作能力。外国语言与外国历史专业教育,将通识教育与专业教育相结合,注重独立思考与创新能力的培养。本专业本科生修业四年,成绩合格并达到学分要求者,可根据学生选课重点和个人意愿,授予文学或历史学学士学位。"
+    },
+    {
+        "id": 7,
+        "name": "世界史专业 古典语文学项目西方古（典学方向 亚非古典学方向 印度古典、 、学方向）",
+        "context": "The aim of this project is to cultivate a group of academic pillars who are not only proficient in Western (or Asian and African) classical literature and languages, but also possess a sense of the times and innovative spirit, for Peking University and the nation.",
+        "ann": [
+            2,
+            133,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            156
+        ],
+        "zh_context": "本项目旨在为北大与国家造就一批既能精通西方 (或亚非)古典与语言文字、又能有时代意识与创新精神的学术栋梁。"
+    },
+    {
+        "id": 8,
+        "name": "历史学专业 古典语文学项目中国古（典学方向）",
+        "context": "The aim of this project is to cultivate a group of academic pillars who are not only proficient in classical Chinese and language, but also have a sense of contemporary consciousness and innovative spirit, for both Peking University and the nation.",
+        "ann": [
+            133,
+            134,
+            135,
+            140,
+            141,
+            151,
+            152,
+            156
+        ],
+        "zh_context": "本项目旨在为北大与国家造就一批既能精通中国古典与语言文字、又能有时代意识与创新精神的学术栋梁。"
+    },
+    {
+        "id": 9,
+        "name": "世界史专业",
+        "context": "Through four years of study, students in this major will be able to proficiently use foreign languages for communication and possess good overall abilities in listening, speaking, reading, writing, and translation. They will also acquire basic knowledge of world history, understand the general development process of human civilization, and have a grasp of the basic methods, academic history, and latest trends in world history research. Additionally, they will have a deep understanding of the history, culture, politics, and society of the countries and regions related to the language they are studying and possess strong independent research or practical work abilities. The education in foreign languages and foreign history combines general education with specialized education and emphasizes the cultivation of independent thinking and innovation ability. Upon completing four years of undergraduate study and meeting the requirements for credits and grades, students can be awarded a bachelor's degree in either literature or history based on their chosen courses and personal preferences.",
+        "ann": [
+            2,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+        ],
+        "zh_context": "通过四年的学习,在语言方面,使本专业学生能够比较熟练地运用所修外国语言进行交流,具备较好的听、说、读、写、译等综合能力;并通过学习世界历史的基本知识,了解人类文明的一般发展历程和世界历史研究的基本方法、学术史和最新动态,同时对该语种相关国家和地区的历史、文化、政治、社会的概貌与特点有比较深入的认识,有较强的独立研究或实际工作能力。外国语言与外国历史专业教育,将通识教育与专业教育相结合,注重独立思考与创新能力的培养。本专业本科生修业四年,成绩合格并达到学分要求者,可根据学生选课重点和个人意愿,授予文学或历史学学士学位。"
+    },
+    {
+        "id": 10,
+        "name": "考古学专业",
+        "context": "After four years of study, students should have a solid grasp of the basic knowledge of archaeology and fieldwork skills. They should be competent in practical work such as field surveys, mapping, archaeological excavations, and the compilation of reports. Additionally, they should have a broad understanding of ancient Chinese archaeology and society, as well as a familiarity with the use of technological methods in archaeological research. They should also have a fairly deep understanding of knowledge and methods in the humanities and social sciences. Their English proficiency should reach at least level four of the national standard, and they should possess the ability to learn independently, preliminary research skills, and strong adaptability to various social and professional needs.",
+        "ann": [
+            168,
+            3,
+            167
+        ],
+        "zh_context": "通过四年的学习,学生应扎实地掌握所学考古学的基础知识和田野考古工作技能,能胜任实际工作的田野调查、测绘以及考古发掘、整理编写报告等基本技能,对古代中国的考古与社会有较广泛的了解,熟知科技手段在考古研究中的运用,对人文社会学科的知识和方法有比较深入的理解,英语水平达到国家四级,具备独立学习的能力、初步的研究能力以及较强的适应不同社会职业需要的能力。"
+    },
+    {
+        "id": 11,
+        "name": "文物与博物馆学专业",
+        "context": "This major mainly cultivates specialized talents engaged in various museum work, dedicated to training individuals with profound cultural heritage, international perspectives, and innovative spirit, who are capable of performing excellent museum management, exhibition planning, public education, cultural relic research, and other museum-related tasks.",
+        "ann": [
+            3,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175
+        ],
+        "zh_context": "本专业主要培养从事各类博物馆工作的专门人材,致力于培养具有深厚文化底蕴,兼具国际视野和创新精神,能够胜任博物馆管理、展览策划、公众教育、文物研究等博物馆事业的优秀人才。"
+    },
+    {
+        "id": 12,
+        "name": "外国语言与外国历史 考古学方向 专业",
+        "context": "This major requires students to understand and master the basic theories of history and archaeology, have solid knowledge of archaeology and skills in field archaeological work, be able to communicate proficiently in a foreign language, and have good overall abilities in listening, speaking, reading, writing, and translation. At the same time, students should have a deeper understanding of the history and archaeological research of relevant countries and regions, and possess preliminary abilities for independent research or practical work.",
+        "ann": [
+            168,
+            169,
+            178,
+            167
+        ],
+        "zh_context": "本专业方向要求学生理解和掌握历史学和考古学的基础理论,具有扎实的考古学专业知识和田野考古工作技能,能够比较熟练地运用外语进行交流,具备较好的听、说、读、写、译等综合能力,同时对该语种相关国家和地区的历史、考古研究有比较深入的认识,具备初步的独立研究或实际工作能力。"
+    },
+    {
+        "id": 13,
+        "name": "文物保护技术专业",
+        "context": "Students in this major should not only master the knowledge and skills related to chemistry, but also be familiar with the basic knowledge of archaeology and museum studies. They should integrate their knowledge using a multi-disciplinary approach, and develop a comprehensive understanding of cultural relics. Additionally, they should cultivate the ability to engage in research on cultural relic preservation and practical work in cultural relic conservation and restoration.",
+        "ann": [
+            169,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185
+        ],
+        "zh_context": "本专业学生不仅要掌握化学类专业所具备的知识与能力,还要掌握和理解考古学、博物馆学的相关基础知识,以文理综合的思维方式对知识融合运用,建立对文物的多元理解与认识,培养从事文物保护研究与文物保护修复实际工作的能力。"
+    },
+    {
+        "id": 14,
+        "name": "考古学专业 文物建筑方向",
+        "context": "Students in this field should have proficiency in the surveying, mapping, and research of cultural relics and architecture, as well as the planning and design abilities in cultural heritage preservation and exhibition. They should also possess the skills in heritage site architecture design and expression. Additionally, they should have knowledge in history, archaeology, and cultural relic conservation science, and have a certain level of artistic and aesthetic cultivation.",
+        "ann": [
+            186,
+            187,
+            188,
+            189,
+            190,
+            191
+        ],
+        "zh_context": "本专业学生应熟练掌握文物建筑勘察、测绘和价值研究能力,文化遗产保护、展示的规划设计能力,遗产地建筑设计和表达能力。同时,还应掌握相应的历史学、考古学和文物保护科学知识,具有一定的艺术和美学修养。"
+    },
+    {
+        "id": 15,
+        "name": "外国语言与外国历史专业 考古学方向",
+        "context": "To cultivate foreign archaeology professionals who are well-versed in foreign archaeology and have an international academic perspective, and to provide high-quality graduate students for related disciplines.",
+        "ann": [
+            192,
+            4
+        ],
+        "zh_context": "培养熟谙国外考古、具国际学术视野的外国考古学人才,并为相关学科输送高质量的研究生人才。"
+    },
+    {
+        "id": 16,
+        "name": "哲学专业",
+        "context": "The major in philosophy aims to cultivate theoretical talents with comprehensive knowledge of the history of philosophy and advanced philosophical thinking abilities, as well as composite talents with a broad knowledge background.",
+        "ann": [
+            193,
+            194,
+            195,
+            196,
+            197,
+            198
+        ],
+        "zh_context": "哲学专业旨在培养具有丰富的哲学史知识和较高的哲学思维能力的理论人才,以及具有广博知识背景的复合型人才。"
+    },
+    {
+        "id": 17,
+        "name": "哲学专业 逻辑学与科学技术哲学方向",
+        "context": "The philosophy major (with a focus on logic and philosophy of science) aims to cultivate comprehensive theoretical talents with knowledge backgrounds in both natural science and philosophy, as well as talents capable of engaging in science and technology communication and management work.",
+        "ann": [
+            193,
+            194,
+            195,
+            196,
+            197,
+            198
+        ],
+        "zh_context": "哲学专业 (逻辑学与科学技术哲学方向)旨在培养兼具自然科学和哲学知识背景的综合型理论人才,以及能够从事科技传播、科技管理方面工作的人才。"
+    },
+    {
+        "id": 18,
+        "name": "宗教学专业",
+        "context": "The major of religious studies aims to cultivate comprehensive theoretical talents with knowledge in both religious studies and philosophy, as well as professionals capable of engaging in religious affairs management.",
+        "ann": [
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199
+        ],
+        "zh_context": "宗教学专业旨在培养兼具宗教学知识与哲学知识背景的综合型理论人才,以及能够从事宗教事务管理方面工作的人才。"
+    },
+    {
+        "id": 19,
+        "name": "阿拉伯语专业",
+        "context": "This major aims to cultivate versatile professionals who possess both expertise and abilities in diplomacy, foreign trade, international cultural exchange, foreign enterprise management, journalism, publishing, Arabic language teaching, as well as regional and country-specific studies related to Arab and Middle Eastern countries.",
+        "ann": [
+            200,
+            201
+        ],
+        "zh_context": "本专业旨在培养能从事外交、外贸、国际文化交流、涉外企业管理、新闻、出版、阿拉伯语教学以及与阿拉伯、中东国家相关的区域国别研究等工作的德才兼备的复合型专门人才。"
+    },
+    {
+        "id": 20,
+        "name": "波斯语专业",
+        "context": "This major aims to cultivate specialized talents who have comprehensive development in morality, intelligence, and physical fitness and master the basic theories, knowledge, and skills of the Persian language and culture. Undergraduates will spend four years in school, during which they will comprehensively and systematically learn skills such as reading, listening, speaking, writing, and translation in Persian language. They will also receive education in Iran's overview, culture, literature, politics, and history to meet the needs of various jobs after graduation. Students should complete all required credits and write a graduation thesis that meets academic standards to become well-rounded and capable applied or research-oriented professionals who can work in diplomacy, foreign trade, international cultural exchange, foreign enterprise management, journalism, publishing, foreign language teaching, and research on foreign issues.",
+        "ann": [
+            202
+        ],
+        "zh_context": "本专业旨在培养德、智、体全面发展,掌握波斯语言文化基础理论、知识和技能的专门人才。本科生在校4年,除了全面、系统地学习波斯语言的阅读、视听说、写作、翻译等方面的技能以外,还要接受伊朗概况、文化、文学、政治、历史等方面的素质教育,以适应毕业后多方面工作的需要。学生毕业时应修满所需全部学分,完成符合学术规范的毕业论文,成为能从事外交、外贸、国际文化交流、涉外企业管理、新闻、出版、外语教学和外国问题研究等工作的德才兼备的应用型或研究型专门人才。"
+    },
+    {
+        "id": 21,
+        "name": "朝鲜语专业",
+        "context": "Through local teaching, international exchanges, teaching and research models, and cross-cultural training, the Korean Language and Culture major in North Korea (South Korea) cultivates students who love their country, have an international perspective, national sentiment, and social responsibility. They have a solid foundation in Korean language, literature, and culture, possess good language skills, cross-cultural communication skills, critical and innovative thinking abilities, as well as strong abilities in independent learning, innovation, and practice. After graduation, they can participate in international affairs and international competitions, engage in foreign-related work such as diplomacy, business, and international cultural exchange, as well as education, publication, and research in foreign language teaching. They are international and diverse talents in Korean (South Korean) language, equipped with certain research capabilities.",
+        "ann": [
+            203
+        ],
+        "zh_context": "朝鲜 (韩国)语言文化专业通过本土教学、国际交流、教研模式、交叉培养等方式,培养热爱祖国,具有国际视野、家国情怀和社会责任感,通晓国际规则,具有扎实的朝鲜(韩国)语语言、文学、文化等专业知识,具有良好的语言运用能力、跨文化交际能力、思辨创新能力和较强的自主学习能力、创新能力和实践能力,毕业后能够参与国际事务和国际竞争,能够从事外交、商务、国际文化交流等涉外工作和新闻出版、外语教育与研究等教育科研工作,并具有一定研究能力的国际化、多元化朝鲜 (韩国)语人才。"
+    },
+    {
+        "id": 22,
+        "name": "德语专业",
+        "context": "The German major aims to comprehensively and systematically train students in German language proficiency. It also emphasizes the cultivation of students' humanistic qualities, integrating literature teaching with a deep and broad knowledge base that includes history, society, philosophy, and religion. This allows students to draw maximum inspiration from the German culture created by poets and philosophers, and become highly proficient in German language, as well as cultural ambassadors and experts on German issues. The program aims to produce talented individuals with expertise in German language and culture for various government departments, research institutions, universities, and large domestic and international companies.",
+        "ann": [
+            204,
+            205
+        ],
+        "zh_context": "德语专业一面致力于全面系统地训练学生的德语语言能力,一面注重学生人文素质培养,在包括历史、社会、哲学、宗教在内的深厚而广阔的知识基础之上进行文学教学,使学生得以最大限度地从 “诗人和哲人”创造的德意志文化中汲取营养,成为高水平的德语语言、德语国家文化使者和德国问题专家,为国家各大部委、科研机构、高等院校、国内外大型企业输送德才兼备的人才。"
+    },
+    {
+        "id": 23,
+        "name": "俄语专业",
+        "context": "This major aims to cultivate versatile professionals who have a solid foundation in basic skills, possess a broad international perspective and cultural literacy, and are capable of engaging in diplomatic affairs, foreign trade, international cultural exchanges, management in foreign-related enterprises, journalism, publishing, foreign language teaching, and research on foreign affairs. It also aims to equip students with preliminary knowledge and skills in specific disciplines and, through further learning and improvement, develop into academic professionals engaged in specialized research.",
+        "ann": [
+            208,
+            206,
+            207
+        ],
+        "zh_context": "本专业旨在培养基本功扎实、具有广博国际视野和文化素养,能从事外交、外贸、国际文化交流、涉外企业管理、新闻、出版、外语教学和外国问题研究等工作的德才兼备的应用型专门人才,以及具备初步特定学科知识储备和技能训练,通过进一步学习和提高,从事特定学科专业研究的学术型人才。"
+    },
+    {
+        "id": 24,
+        "name": "法语专业",
+        "context": "This major focuses on training students in independent academic research skills and aims to cultivate comprehensive research talents in the fields of Indology, Buddhist studies, Western Region studies, and Tibetan studies. Graduates of this major mainly engage in academic research in social science research institutions and higher education institutions. With the development of the country, there is an increasing need for advanced talents in the fields of publishing, journalism, and education. This major will also cultivate high-quality talents who possess both moral character and knowledge, are well-versed in their field, capable of critical thinking, and adept at innovation.",
+        "ann": [
+            209,
+            210
+        ],
+        "zh_context": "本专业注重独立学术研究能力的训练,旨在培养印度学、佛教学、西域学和藏学领域的综合性研究人才。本专业已毕业的学生,主要在社会科学研究院所以及高等院校从事学术研究。随着国家的发展,出版、新闻、教育领域对高级人才有越来越多的需要,也将为这些相关领域培养出德才兼备、知识丰富、善于思考、勇于创新的高素质人才。"
+    },
+    {
+        "id": 25,
+        "name": "菲律宾语专业",
+        "context": "This major aims to cultivate comprehensive and highly skilled professionals who are morally upright, proficient in foreign languages, solid in professional knowledge, noble in character, broad in vision, and physically fit. It requires students to have a multidisciplinary humanities and social sciences literacy, as well as knowledge of the Philippines and Southeast Asian regions, in order to meet the comprehensive and high-level professional needs related to the Philippines both domestically and internationally, such as in national public institutions, government agencies or research departments, and domestic and foreign companies. Through professional training, students will gain in-depth mastery and broad understanding of knowledge, enhance, develop, and deepen their innovative spirit and professional skills, and acquire lifelong learning and progress abilities, achievements in knowledge learning, understanding and appreciation of the diverse world, ethical and moral conduct, integration and application of knowledge, and high-level thinking and spirituality. This major requires students to be proficient in Filipino and English, and be able to engage in work related to diplomacy, foreign affairs, foreign trade, international cultural exchange, corporate management, journalism and publishing, academic research, foreign language teaching, translation and application, among others.",
+        "ann": [
+            211,
+            212
+        ],
+        "zh_context": "本专业旨在培养德才兼备、综合能力强、外语技能熟练、专业知识扎实、情怀高尚、视野广阔、身体健康的,既有人文社科多学科素养,又具有菲律宾国别和东南亚区域知识视野,适应国家事业单位、政府机关或研究部门、国内外企业需要的有关菲律宾国别相关问题的综合性、高水平专业人才。让学生从专业培养中获得对知识深入的掌握和广博的理解,创新精神与专业能力得到进一步的加强、拓展和深化,从而获得终生学习和进步的能力、知识学习的成就、对多元世界的理解与欣赏、合乎伦理道德的为人处世、对知识的融合与应用以及高品位的思想与心灵。本专业要求学生熟练掌握菲律宾语和英语,能胜任外交外事、外贸商业、国际文化交流、企业管理、新闻出版、学术研究、外语教学、外语翻译和运用等方面的工作。"
+    },
+    {
+        "id": 26,
+        "name": "蒙古语专业",
+        "context": "The students are required to have a solid understanding of the basic knowledge of Mongolian language and literature, as well as proficiency in practical skills of listening, speaking, reading, writing, and translating. They should have extensive knowledge of Mongolian society, history, culture, diplomacy, politics, and current economic situation. They should also have an English proficiency level of at least level 6, and possess good Chinese proficiency and written expression abilities. They should have the ability to independently learn, strong research skills, and the ability to adapt to different social and professional needs. At the same time, emphasis should be placed on cultivating students' abilities for continuous learning and improvement, and fostering their awareness of using knowledge for innovation. Respect, understanding, and appreciation for foreign cultures and a diverse world should also be emphasized.",
+        "ann": [
+            213
+        ],
+        "zh_context": "要求学生扎实地掌握蒙古语言文学基础知识和能胜任实际工作的听说读写译技能,对蒙古国的社会、历史、文化、外交以及政治、经济现状等有较广泛的了解,英语水平达到六级,具有较好的汉语水平和文字表达能力,具备独立学习的能力、较强的研究能力以及适应不同社会职业需要的能力。同时,注重培养学生持续学习和进步的能力,培养学生运用知识进行创新的意识,强调对异域文化和多元世界的尊重、理解与欣赏,"
+    },
+    {
+        "id": 27,
+        "name": "葡萄牙语专业",
+        "context": "The Portuguese language major focuses on cultivating students who are proficient in speaking and using Portuguese and have a deep understanding of politics, economy, culture, and society in Portugal, Brazil, and other Portuguese-speaking countries and regions. This program not only emphasizes the training of students' language abilities but also the development of their general knowledge and critical thinking skills. It also places importance on shaping students' ethics and morals through the curriculum. We hope that, after four years of study, students can become knowledgeable, broad-minded, morally upright individuals who understand diverse societies, possess a solid theoretical foundation, research potential, and the ability for lifelong learning and improvement. They will be able to adapt to the needs of different professional fields in society and serve the community better.",
+        "ann": [
+            216,
+            214,
+            215
+        ],
+        "zh_context": "葡萄牙语专业注重培养能够熟练掌握并运用葡萄牙语,对葡萄牙、巴西及其他葡语国家与地区政治、经济、文化、社会等方面知识具有深入认识,具备多重视野的人才。本专业不但重视学生的语言能力的训练,而且重视通识能力与独立思考能力的培养,也重视在课程中塑造学生的伦理道德。期待学生通过四年的学习,能够成为知识丰富、视野开阔,道德高尚,理解多元社会,具有一定的理论基础和研究潜力的人才,获得终身学习与进步的能力,未来能够适应不同社会职业的需要,更好地为社会服务。"
+    },
+    {
+        "id": 28,
+        "name": "日语专业",
+        "context": "This major aims to cultivate professional talents with an international perspective, who can engage in Japan-related work such as diplomacy, foreign trade, international cultural exchanges, foreign enterprise management, journalism, publishing, Japanese language teaching, and Japanese studies. The Japanese language major requires students to study for four years at the undergraduate level, and be able to proficiently use Japanese for communication, with strong comprehensive abilities in listening, speaking, reading, writing, and translation. At the same time, students should have a deep understanding and corresponding analytical and judgment abilities in Japanese language, literature, history, social culture, politics, religion, economy, and daily life. Through four years of study, students should grasp a certain amount of theoretical knowledge about Japanese linguistics and possess familiarity with the overall picture and characteristics of Japanese literature and culture, as well as research capabilities related to the target country. After graduation, they should be able to engage in various fields such as promoting Sino-Japanese friendly exchanges, cross-cultural research, etc. It is hoped that students will achieve the following progress: ability for lifelong learning and improvement; achievements in cultural and knowledge learning; understanding and appreciation of a diverse world; ethical behavior; fusion and application of knowledge; high-quality thinking and soul.",
+        "ann": [
+            217,
+            218,
+            219
+        ],
+        "zh_context": "本专业旨在培养能够从事与日本相关的外交、外贸、国际文化交流、涉外企业管理、新闻、出版、日语教学和日本问题研究等工作的具有国际视野的德才兼备的应用型专门人才。日语专业要求学生经过本科四年的学习,能够比较娴熟地运用日语进行交流,具备较强的听、说、读、写、译等综合能力。同时对日本的语言、文学、历史、社会文化、政治宗教、经济生活等具有较为深入的了解及相应的分析判断能力。通过四年学习,使学生握一定的日语语言学理论知识,熟悉日本文学、文化的概貌与特点,具备对象国研究能力。毕业后能够从事促进中日友好交流、跨文化研究等诸领域工作。希望学生获得如下进步:终生学习和进步的能力;文化、知识学习的成就;对多元世界的理解与欣赏;合乎伦理道德的为人处世;对知识的融合与应用;高品位的思想与心灵。"
+    },
+    {
+        "id": 29,
+        "name": "乌尔都语专业",
+        "context": "This major emphasizes the cultivation of applied language talents and comprehensive research talents, aiming to train individuals who possess both solid skills in Urdu language application and a deep understanding of the history, culture, and current situation of the South Asian subcontinent. These individuals are expected to be multi-talented professionals and international exchanges ambassadors. The program aims to cultivate high-quality talents with both moral integrity and competency to engage in work related to diplomacy, foreign trade, international cultural exchange, foreign affairs management, journalism, publishing, foreign language teaching, and research on regional issues of different countries.",
+        "ann": [
+            220,
+            221
+        ],
+        "zh_context": "本专业注重外语应用型人才和综合型研究人才的培养,旨在培养既具备扎实的乌尔都语应用能力,又深入了解南亚次大陆历史文化及现状的复合型人才和国际交流使者。为国家培养能从事外交、外贸、国际文化交流、涉外管理、新闻、出版、外语教学和国别区域问题研究等工作的德才兼备的高素质人才。"
+    },
+    {
+        "id": 30,
+        "name": "西班牙语专业",
+        "context": "A major in Spanish focuses on cultivating students' comprehensive literacy in Spanish language and literature, aiming to develop well-rounded, knowledgeable, and culturally aware professionals. Graduates have a wide range of employment opportunities and are highly sought after by government departments, higher education institutions, research institutes, large state-owned enterprises, well-known foreign companies, and private enterprises. For students who choose to continue their studies, many successfully enter prestigious domestic and international universities to pursue degrees in fields such as law, economics, finance, media, sociology, international relations, international politics, art, education, archaeology, and architecture.",
+        "ann": [
+            224,
+            222,
+            223
+        ],
+        "zh_context": "西班牙语专业注重学生西班牙语语言文学的综合素养,旨在培养专业扎实、知识结构全面、人文视野开阔的跨文化复合型人才。毕业生就业选择丰富,深受国家机关、高等院校、科研院所、大型国企及知名外企和私企的欢迎。选择继续求学的学生,除攻读西班牙语和葡萄牙语语言文学相关学位外,不少学生都顺利进入国内外名校的法律、经济、金融、传媒、社会学、国际关系、国际政治、艺术、教育、考古、建筑等专业深造。"
+    },
+    {
+        "id": 31,
+        "name": "越南语专业",
+        "context": "After four years of study, students should have a solid grasp of the basic knowledge of Vietnamese language and literature, as well as the ability to be competent in practical work in listening, speaking, reading, writing, and translating skills. They should have a broad understanding of the Vietnamese national conditions, society, history, culture, diplomacy, politics, economic status, as well as basic knowledge of Southeast Asian geography, and a broad knowledge of Chinese and world culture. Their English proficiency should reach level four, and they should have a good level of Chinese proficiency and expressive ability. They should have the ability to study independently, conduct preliminary research, and adapt to different social and professional needs. Furthermore, they should have good physical fitness and a healthy psychological quality.",
+        "ann": [
+            225
+        ],
+        "zh_context": "通过四年学习,学生应扎实地掌握越南语言文学基础知识以及能胜任实际工作的听说读写译技能,对越南国情、社会、历史、文化、外交以及政治、经济现状等有较广泛的了解,了解东南亚地的基本概况,对中国和世界文化有比较广博的知识。英语水平达到四级,具有较好的汉语水平和表达能力,具备独立学习的能力、初步研究的能力以及较强的适应不同社会职业需求的能力,具有健康的体魄和良好的心理素质。"
+    },
+    {
+        "id": 32,
+        "name": "英语专业",
+        "context": "To cultivate professional English talents with a strong humanistic literacy and outstanding language proficiency, capable of engaging in various fields such as diplomacy, journalism, publishing, academic research, education, and international exchanges.",
+        "ann": [
+            226,
+            227,
+            228,
+            229,
+            230
+        ],
+        "zh_context": "培养具有良好人文素养、语言能力突出的专业英文人才,能够从事外交、新闻、出版、学术研究、教育、国际交流等多种领域的工作。"
+    },
+    {
+        "id": 33,
+        "name": "缅甸语专业",
+        "context": "The curriculum places equal emphasis on teaching the Burmese language and developing students' comprehensive abilities in listening, speaking, reading, writing, and translation to meet societal demands. It also places importance on students' overall understanding of the culture and society of the target country and Southeast Asia, which lays a solid foundation for future work. After four years of professional study, students are expected to have a solid grasp of Burmese language and literary knowledge, as well as practical skills in listening, speaking, reading, writing, and translation, and have a broad understanding of Burmese society, history, culture, diplomacy, politics, and economic situation, as well as extensive knowledge of Chinese and world cultures. They should attain a Level 4 proficiency in English, have a good command of the Chinese language and expression skills, possess independent learning and preliminary research abilities, and be capable of adapting to different societal and professional needs.",
+        "ann": [
+            231
+        ],
+        "zh_context": "既注重缅甸语语言教学,全面培养学生的听说读写译能力,以适应社会需求,也重视学生对对象国和东南亚地区的人文和社会的整体了解,为今后工作打下扎实基础。经过四年的专业学习,要求学生扎实地掌握缅甸语言、文学基础知识和能胜任实际工作的听说读写译技能,对缅甸的社会、历史、文化、外交、政治和经济现状等各方面有较广泛的了解,对中国和世界文化有较广博的知识,英语水平达到四级,具有较好的汉语水平和表达能力,具备独立学习的能力、初步的研究能力以及较强的适应不同社会职业需要的能力。"
+    },
+    {
+        "id": 34,
+        "name": "意大利语专业",
+        "context": "This major aims to cultivate versatile professionals with excellent proficiency in the Italian language and comprehensive abilities. Graduates will be able to engage in various fields such as diplomacy, international cultural exchanges, foreign language teaching and foreign affairs research, journalism, publishing and media, foreign enterprise management, and foreign trade. They will possess high-level humanistic literacy and be adaptable to the needs of their professions and the times.",
+        "ann": [
+            232,
+            233,
+            234
+        ],
+        "zh_context": "本专业旨在培养精通意大利语、综合能力卓越的复合型人才,能在政治、经济、文 化、教育等多个领域从事外交、国际文化交流、外语教学与外国问题研究、新闻出版与传 媒、涉外企业管理、外贸等相关工作,具有较高人文素养,同时能够适应职业与时代 需求。"
+    },
+    {
+        "id": 35,
+        "name": "印地语专业",
+        "context": "To cultivate talents that meet the needs of national economic and social development, with proficiency in Hindi language, literature, and Indian culture, as well as the ability to use multiple languages such as Hindi, English, and Chinese, and the ability to communicate across cultures. Graduates should have an international perspective and be able to engage in language services, foreign language education, and foreign-related work, with some research capabilities. They should possess both moral integrity and talent to lead future foreign language professionals.\n\nBased on the actual situation in India and South Asian countries, this program emphasizes the equal importance of Hindi and English. Students are required to master practical skills in listening, speaking, reading, writing, and translation in Hindi, and to have a high level of practical English proficiency. They should have a broad understanding of Indian and South Asian society, history, culture, politics, economy, and current situation, as well as extensive knowledge of Chinese and world culture. Graduates should have strong adaptability to meet the different social and professional needs, striving to have broader career prospects after graduation.",
+        "ann": [
+            235
+        ],
+        "zh_context": "培养符合国家经济社会发展需要,掌握印地语语言、文学和印度文化相关知识,具备 印地语、英语和汉语等多语种运用能力及跨文化交流能力,具有国际视野,能够从事语言 服务、外语教育及涉外工作,具有一定科研能力,德才均备,能引领未来的外语人才。 根据印度及南亚各国的实际情况,本专业印地语、英语并重,要求学生扎实地掌握印 地语语言和能胜任实际工作的听、说、读、写、译技能,具有较高的英语实际应用水平, 对印度和整个南亚的社会、历史、文化、政治、经济、现状等有较广泛的了解,对中国和 世界文化有较广博的知识,具备较强的适应不同社会职业需要的能力,力争毕业后有更广 阔的生存空间。"
+    },
+    {
+        "id": 36,
+        "name": "广播电视编导专业 戏剧影视文学方向",
+        "context": "In this era where \"creativity is king\" and \"creative writing and directing wins,\" creative writing and directing are the source and core of arts, film, and cultural creative industries. This specialized field is based on more than ten years of film directing education in the School of Arts, dedicated to cultivating highly skilled creative writers and screenwriters with profound humanistic and artistic literacy. The program aims to foster lively originality, macroscopic overall grasp, as well as microscopic external expression and process control. We hope to lead the creation with the \"way\" of art and achieve a combination of leadership and practicality, producing versatile and high-end talents.",
+        "ann": [
+            259,
+            5,
+            262,
+            263,
+            236,
+            247,
+            248,
+            249,
+            251,
+            252,
+            253,
+            382
+        ],
+        "zh_context": "在这个 “创意为王” “创意制胜”的时代,创意写作与创意编导是戏剧影视等艺术与 文化创意产业的源头与核心。该专业方向立足于艺术学院十余年影视编导专业教育的积 累,致力于培养具备深厚人文艺术素养的创意写作与编剧的高级人才。培养活泼的原创能 力,宏观的整体把握能力,以及微观的外化表达和流程控制能力。期待能以艺术之 “道” 引领创作之 “技”,成就一种兼具领袖型与实操型特点的复合型高端人才。"
+    },
+    {
+        "id": 37,
+        "name": "艺术史论专业 文化产业管理方向",
+        "context": "The cultural industry management major is a new discipline designed to adapt to the prosperity of China's cultural economy and the rapid development of the cultural and artistic industries. This major aims to enhance students' understanding of art theory and the history of Chinese and foreign art, as well as their theoretical knowledge of cultural industry principles, art management, and art economics. Students also receive practical training in art market marketing, creative management, and cultural industry innovation and entrepreneurship. The goal is to cultivate students' interdisciplinary knowledge in art aesthetics, art management, and cultural creativity, making them innovative and highly competent professionals in the field of cultural and artistic industries with broad cultural perspectives, forward-thinking creative thinking, and strong future adaptability.",
+        "ann": [
+            256,
+            257,
+            258,
+            260,
+            237,
+            238,
+            245,
+            246,
+            254,
+            382,
+            255
+        ],
+        "zh_context": "文化产业管理专业是为适应我国文化经济繁荣和文化艺术产业快速发展而设立的新兴 专业。该专业通过艺术理论和中外艺术史等课程的素养提升,文化产业原理、艺术管理学 和艺术经济学等课程的理论学习以及艺术市场营销学、创意管理学和文化产业创新创业等 课程的实务训练,培养学生掌握艺术审美、艺术管理和文化创意等跨学科的复合型知识结 构,使学生成为文化视野开阔、创意思维前瞻和未来胜任力强的文化艺术产业领域的创新 型高级人才。 "
+    },
+    {
+        "id": 38,
+        "name": "艺术史论专业",
+        "context": "The major of Art History and Criticism is dedicated to cultivating outstanding professionals for art journals, publishing houses, art exhibitions, auction institutions, art groups, art museums, and other related cultural enterprises and institutions. Through four years of education, students will be trained to engage in art criticism, art activity planning, art historical research, and teaching. They will develop comprehensive abilities in morality, intelligence, physicality, and aesthetics, combining theoretical knowledge with practical skills to become versatile and highly skilled professionals.",
+        "ann": [
+            260,
+            261,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246
+        ],
+        "zh_context": "艺术史论专业方向致力于为艺术报刊杂志、出版社、艺术展演、拍卖机构、艺术团 体、美术馆及其他相关文化企事业单位培养优秀专业人才。经过大学四年的教育,将学生 培养成为具备能够从事艺术批评、艺术活动策划、艺术史论研究和教学等方面工作,德、 智、体、美全面发展,理论素质与实践技能相结合的宽口径、复合型的高层次人才。"
+    },
+    {
+        "id": 39,
+        "name": "国际政治专业 外交学专业 国际政治、 、专业 国际政治经济学专业方向",
+        "context": "The talent training objectives of the School of International Relations are to cultivate specialized talents in the study of international issues according to the standards of world-class universities, high-end talents engaged in foreign affairs work, and high-quality compound talents with a global perspective, cross-cultural background, and the ability to adapt to diverse social needs. The school particularly emphasizes the development of students' independent thinking ability and critical spirit, strong sense of social responsibility, and the acquisition of rich campus and social practical experience, in order to meet the multi-dimensional and multi-level needs of future society.",
+        "ann": [
+            6,
+            7,
+            264,
+            265,
+            267,
+            268,
+            269,
+            270,
+            271,
+            273,
+            277,
+            278,
+            279
+        ],
+        "zh_context": "国际关系学院的人才培养目标是按照世界一流大学的标准,造就国际问题的专门研究 人才、从事外事工作的高端人才,以及具有全球视野、跨文化背景、能适应社会不同需求 的高素质复合型人才。学院尤其注重养成学生的独立思想能力与批判精神、强烈的社会责 任感、获得较为丰富的校园和社会实践经验,以适应未来社会多方面、多层次的需要。"
+    },
+    {
+        "id": 40,
+        "name": "国际政治专业 外交学专业 国际政治、 、专业 国际政治经济学专业方向 国、际政治 国际组织与国际公共政策专（业方向）",
+        "context": "The newly established International Politics (International Organizations and International Public Policy) major in 2018 aims to cultivate highly skilled professionals with a global perspective and a strong sense of Chinese identity. This program is designed to provide students with a deep understanding of both Chinese and foreign cultures, as well as a solid theoretical foundation and practical skills. Graduates will possess excellent language proficiency in two official languages of the United Nations, in addition to Chinese, and will be specialized in the field of international organizations.",
+        "ann": [
+            266
+        ],
+        "zh_context": "2018年增设国际政治 (国际组织与国际公共政策专业方向),旨在培养具有全球视野 与中国情怀、了解中外文化、具备一定理论素养和丰富的实践技能、除中文之外通晓两门 联合国工作语言的高素质国际组织专门人才。"
+    },
+    {
+        "id": 41,
+        "name": "国际政治专业 国际组织与国际公共（政策专业方向）",
+        "context": "Through professional studies, international relations students will have a solid foundation in political science theory, comprehensive professional knowledge, exceptional language skills, profound humanities literacy, lofty moral character, and excellent communication abilities. They will become innovative and versatile talents with both international vision and a deep understanding of China.",
+        "ann": [
+            274,
+            276
+        ],
+        "zh_context": "通过专业学习的国关学子,他们将具有扎实的政治学理论基础、系统深入的专业知 识、突出的外语能力、深厚的人文素养、高尚的道德情操、良好的交流与沟通能力,成为 兼具国际视野与中国情怀的创新型、复合型人才。"
+    },
+    {
+        "id": 42,
+        "name": "国际政治 国际组织与国际公共政策（专业方向）",
+        "context": "The Talent cultivation objectives of the School of International Relations are in accordance with the standards of world-class universities. The goals are to nurture professionals specialized in the study of international issues, high-end personnel engaged in foreign affairs work, as well as high-quality, comprehensive individuals with a global perspective, cross-cultural background, and the ability to meet diverse social needs. The School particularly emphasizes the development of students' independent thinking abilities and critical spirits, a strong sense of social responsibility, and the acquisition of diverse campus and social practical experience in order to adapt to the multi-faceted and multi-level demands of future society.",
+        "ann": [
+            275
+        ],
+        "zh_context": "国际关系学院的人才培养目标是按照世界一流大学的标准,造就国际问题的专门研究 人才、从事外事工作的高端人才,以及具有全球视野、跨文化背景、能适应社会不同需求 的高素质复合型人才。学院尤其注重养成学生的独立思想能力与批判精神、强烈的社会责 任感、获得较为丰富的校园和社会实践经验,以适应未来社会多方面、多层次的需要。"
+    },
+    {
+        "id": 43,
+        "name": "法学专业",
+        "context": "The goal of the Law School of Peking University in teaching and talent cultivation is to fulfill its historical mission, to care about issues in China, to emphasize both academic qualities and comprehensive education, and to cultivate well-rounded talents. The School hopes to establish a solid foundation in undergraduate law disciplines and, with a broad international, historical, vocational, and academic perspective, to meet the short-term and long-term needs of Chinese society by producing a large number of high-quality legal professionals and scholars who possess forward-thinking, innovative, reflective, and critical abilities.",
+        "ann": [
+            288,
+            289,
+            290,
+            8,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285,
+            286
+        ],
+        "zh_context": "北大法学院在教学和人才培养上的目标是:承担历史使命,关心中国问题,素质学术 并重,培养全面人才。学院希望立足法学本科专业,在开阔的国际、历史、职业和学术视 野下,针对中国社会的近期和长远需求,为社会主义建设培养出大批具备前瞻、创新、反 思和批评能力的高素质领导型和创新型法学人才。 "
+    },
+    {
+        "id": 44,
+        "name": "信息管理与信息系统专业",
+        "context": "After four years of study, graduates will be able to adapt to the trend of informatization and networking, and can engage in data analysis, information product design, information product development, as well as information system construction and information resource construction in various organizations including IT, cultural institutions, government departments, enterprises, news media, and consulting. They will become comprehensive professionals who meet the talent needs of the digital network information age. Graduates can also choose to further their studies in related fields at domestic and foreign universities and research institutions. The fields of further studies include information management, information science, management information systems, management science and engineering, human-computer interaction, educational technology, etc.",
+        "ann": [
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299
+        ],
+        "zh_context": "通过四年的学习,毕业生能够适应信息化与网络化发展趋势,能从事IT、文化事业 机构、政府部门、企业、新闻媒体、咨询等各类组织机构的数据分析、信息产品设计、信 息产品开发以及信息系统建设、信息资源建设等综合性专门人才,满足数字网络信息化时 代发展的人才需求。 学生毕业也可以选择在海内外高等院校、研究机构就相关的专业领域继续深造,深造 领域包括信息管理、情报学、管理信息系统、管理科学与工程、人机交互、教育技术等。"
+    },
+    {
+        "id": 45,
+        "name": "图书馆学专业",
+        "context": "To cultivate graduates who can adapt to the trends of informatization and networking, the four-year program provides students with the knowledge and skills necessary for information management and information resource construction in various organizations such as libraries, cultural institutions, enterprises, government departments, news media, and the information industry, meeting the talent demand of the digital network information era. Graduates can also choose to further their studies in related fields at domestic or overseas universities and research institutions, including library science, information science, editing and publishing, information resource management, and public culture.",
+        "ann": [
+            291,
+            296,
+            9,
+            10,
+            300,
+            302,
+            304,
+            305,
+            306
+        ],
+        "zh_context": "培养能够适应信息化与网络化发展趋势,毕业生通过四年的学习,能从事图书馆、文 化机构、企业、政府部门、新闻媒体、信息产业等各类组织的信息管理与信息资源建设, 满足数字网络信息化时代发展的人才需求。 学生毕业也可以选择在海内外高等院校、研究机构就相关的专业领域继续深造,深造 领域包括图书馆学、情报学、编辑出版学、信息资源管理、公共文化等。"
+    },
+    {
+        "id": 46,
+        "name": "大数据管理与应用",
+        "context": "After four years of study, graduates can work in departments related to data analysis, information management, business process optimization, business intelligence decision-making, and internet intelligence. Relevant positions include data management departments, data analysis departments, and strategic decision-making departments in internet, finance, technology, and business sectors in enterprises and institutions, engaging in data management, data analysis and mining, and data decision support related work. Graduates can also choose to continue their studies in related professional fields at higher education institutions and research institutions both domestically and internationally. The fields of further study include data science, big data technology, information management, social computing, and computer science.",
+        "ann": [
+            354,
+            291,
+            355,
+            295,
+            307,
+            308,
+            309,
+            310
+        ],
+        "zh_context": "通过四年的学习,毕业生可以在相关部门从事数据分析、信息管理、业务流程优化、 商务智能决策和互联网智能化等工作。对口的职位包括互联网、金融、科技、商务等领域 企事业单位的数据管理部门、数据分析部门、战略决策部门从事数据管理、数据分析挖 掘、数据决策支撑等相关工作。 学生毕业也可以选择在海内外高等院校、研究机构就相关的专业领域继续深造,深造 领域包括数据科学、大数据技术、信息管理、社会计算、计算机科学等。 "
+    },
+    {
+        "id": 47,
+        "name": "社会学专业",
+        "context": "The sociology major aims to cultivate specialized talents with a comprehensive development of moral, intellectual, and physical qualities, characterized by the mastery of basic knowledge, theories, and research methods in sociology. The main destinations for undergraduate sociology students are to pursue graduate studies at domestic and international universities or research institutions, as well as to work in government departments, media organizations, various domestic and foreign survey companies, and business enterprises.",
+        "ann": [
+            320,
+            321,
+            322,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317
+        ],
+        "zh_context": "社会学专业旨在培养以掌握社会学基本知识、基本理论和基本研究方法为特色的、德 智体全面发展的专门人才。社会学专业本科生的毕业去向主要是继续在国内外高等学校或 研究机构攻读研究生,以及到政府部门、传媒机构、各类中外调查公司、企事业单位任 职等"
+    },
+    {
+        "id": 48,
+        "name": "社会工作专业",
+        "context": "The social work major requires students to master the basic theories, knowledge, and skills of social work in order to cultivate specialized professionals engaged in research and practical work in social work, social construction, and social governance to meet the needs of society.",
+        "ann": [
+            323,
+            324,
+            325,
+            326,
+            327,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316
+        ],
+        "zh_context": "社会工作专业要求学生掌握社会工作专业的基本理论、基本知识和基本技能,以培养 社会需求的从事社会工作与社会建设、社会治理方面的研究和实际工作的专门人才。"
+    },
+    {
+        "id": 49,
+        "name": "人类学专业",
+        "context": "China has become an important part of the global and integrated world order today. This situation has created a strong demand in China for field research and comparative studies on both domestic and international societies. Whether for long-term international strategies or short-term foreign policies, government departments require high-level professionals who have received extensive training in anthropology and possess a deep understanding of domestic and international social and cultural issues. With Chinese companies expanding overseas, multinational enterprises also have an urgent need for talent who can understand foreign societies and cultures. With the rise of regional and country-specific studies, research institutes specializing in anthropology, foreign language universities, and regional research institutions in China are also in need of developing teaching and research talents in this field. In response to these demands, the undergraduate program in anthropology aims to cultivate individuals who possess a comprehensive development of moral, intellectual, and physical attributes and who have a mastery of the basic theories and methods of anthropology. These individuals will be equipped with a modern scientific mindset and excellent humanities qualities.",
+        "ann": [
+            322,
+            328,
+            329,
+            330,
+            11,
+            12,
+            313,
+            316,
+            317,
+            318,
+            319
+        ],
+        "zh_context": "在全球化和世界一体化的今天,中国已是世界格局中的重要组成部分。这一格局使得 当下中国产生了对海内外社会的实地调查研究和比较研究的强大需求。无论是基于长期的 国际战略还是短期的外交政策,政府部门需要大量接受过人类学专业训练、对国内外社会 文化有深入理解的高层次人才。随着中国企业走出国门,诸多跨国企业也急需能够了解海 外社会文化的复合型人才。随着区域与国别研究的兴起,国内从事人类学研究的科研院 所、外国语大学和区域研究机构也急需培养本领域的师资力量和研究人才。基于这些需 求,人类学本科专业旨在培养掌握人类学基本理论和方法的德智体全面发展的人才,培养 具有现代科学思想和优良人文素质的专门人才。"
+    },
+    {
+        "id": 50,
+        "name": "政治学与行政学专业",
+        "context": "This major is aimed at training professionals who meet the needs of the country and the future development direction of the discipline. It aims to cultivate high-level management personnel who are competent for positions in central and local party and government agencies, enterprises and institutions, research and teaching institutions, and social organizations. It also aims to nurture professionals who are capable of theoretical propaganda, media commentary, policy analysis, and public opinion research, and select outstanding graduates for further study to cultivate high-level teaching and research talents.\n\nGraduates should have a firm and correct political direction, excellent moral qualities, and a good psychological quality. They should have a comprehensive development in terms of morality, intelligence, physical health, aesthetics, and labor, love the motherland, and be dedicated to their work. They should possess political and legal thinking, management ability and quality, innovation and entrepreneurship awareness, and team spirit. They should also master the methods of theoretical thinking, investigation and research, policy analysis, organization and coordination, and innovation and entrepreneurship. \n\nAfter graduation, they should grow into management backbones and leaders in practical management positions, gradually become thinkers and theorists in theoretical propaganda positions, and become well-known experts and scholars in the field of teaching and academic research.",
+        "ann": [
+            331,
+            332,
+            333,
+            334,
+            13,
+            14,
+            15,
+            335,
+            16
+        ],
+        "zh_context": "本专业面向国家需求和学科未来发展方向培养人才,旨在培养胜任中央和地方各级党 政机关、企事业单位、科研教学机构及社会组织岗位要求的高级管理人员,适应理论宣 传、媒体评论、政策分析、民意调查等工作的专业人才,并选拔优秀毕业生进一步学习深 造,培养高级教学科研人才。毕业生应具备坚定正确的政治方向、优良的道德品质、良好 的心理素质;具备政治学与行政学专业理论和知识,德智体美劳全面发展,热爱祖国,爱 岗敬业;具备政治和法治思维、管理能力和素质、创新创业意识和团队合作精神;掌握理 论思考、调查研究、政策分析、组织协调和创新创业等方法。毕业后,在实际管理岗位成 长为管理骨干和领导者,在理论宣传岗位,逐步成长为思想家和理论家,在教学和学术研 究领域成长为知名专家学者。 "
+    },
+    {
+        "id": 51,
+        "name": "行政管理专业",
+        "context": "Through four years of study, students should systematically grasp the basic theories and methods of public administration, and be able to perform relevant practical administrative tasks. They should also take the lead in the future development of public administration in our country, promote the modernization of the national governance system and governance capacity. Furthermore, they should be able to master the basic research methods of the discipline, laying a solid foundation for further study at the master's and doctoral levels.",
+        "ann": [
+            336,
+            337,
+            17,
+            338,
+            340,
+            341,
+            342,
+            343,
+            344,
+            345
+        ],
+        "zh_context": "通过四年学习,学生应系统掌握行政管理学基础理论知识和方法;能够胜任相关实际 行政管理工作,引领我国未来行政管理发展,推进国家治理体系和治理能力现代化;同时 能够掌握学科基本研究方法,为今后硕士和博士阶段的进一步深造奠定坚实基础。"
+    },
+    {
+        "id": 52,
+        "name": "城市管理专业",
+        "context": "Peking University's Urban Management program implements the principles of \"strengthening foundations, promoting interdisciplinary studies, respecting choices, and excellence in teaching\". It adheres to the educational concept of \"international cutting-edge, national demand, and Peking University style\", integrating liberal education into the entire process of talent cultivation. It promotes students' comprehensive growth in knowledge, abilities, and character, enabling them to \"understand themselves, understand society, understand China, and understand the world\". The program aims to develop comprehensive urban management leaders with humanistic care, independent personalities, innovative spirit, and a global perspective.",
+        "ann": [
+            18,
+            19,
+            20,
+            21,
+            339,
+            346,
+            347
+        ],
+        "zh_context": "北京大学城市管理专业贯彻 “加强基础、促进交叉、尊重选择、卓越教学”方针,坚 持构建 “国际前沿、国家需求、北大风格”的教育理念,融通识教育于人才培养全过程, 促进学生在知识、能力、品格等方面的全面成长,使学生 “懂得自己、懂得社会、懂得中 国、懂得世界”,旨在培养具有人文关怀、独立人格与创新精神和全球视野的综合型城市 管理领袖人才。"
+    },
+    {
+        "id": 53,
+        "name": "政治学与行政学专业 数字治理方向",
+        "context": "This major aims to cultivate high-quality and versatile talents who possess solid theoretical knowledge and expertise in political science and public administration, as well as a deep understanding of digital governance theories and practical skills in data analysis. Through four years of study, students are required to master the content, knowledge, and methods of political science and public administration. They should also acquire a systematic understanding of the foundational theories of digital governance and comprehend the operational logic and development prospects of digital government, digital society, and digital economy. Furthermore, students should be proficient in using skills to collect, manage, and analyze information resources, be able to identify data relationships and potential patterns, and critically reflect on the results of data analysis. Additionally, students are expected to autonomously contemplate relevant issues in digital governance and develop a profound understanding of the modernization of the national governance system and governance capacity.",
+        "ann": [
+            352,
+            353,
+            354,
+            355,
+            350,
+            351
+        ],
+        "zh_context": "本专业方向主要培养兼备政治学与行政学专业理论和知识、数字治理理论素养和数据 分析实操能力的高素质、复合型人才。通过四年学习,学生需要掌握政治学与行政学专业 的内容、知识和方法;系统掌握数字治理的基础理论,理解数字政府、数字社会和数字经 济的运行逻辑和发展前景;熟练使用收集、管理和分析信息资源的技能,能够发现数据关 系、识别潜在模式,并对数据分析结果进行批判性反思;自主思考数字治理的相关议题, 形成对国家治理体系和治理能力现代化的深刻认识。 "
+    },
+    {
+        "id": 54,
+        "name": "马克思主义理论专业",
+        "context": "Cultivating high-quality professional theoretical talents. This major is oriented towards the needs of socialist modernization with Chinese characteristics and the great rejuvenation of the Chinese nation. It adheres to the \"broad caliber, solid foundation, emphasis on innovation, and internationalization\" training model, aiming to cultivate Marxist theoretical talents with a solid foundation, broad knowledge, high humanistic literacy, and strong comprehensive innovation abilities. It aims to cultivate Marxist talents for governance and administration. Marxism emphasizes the integration of theory and practice the most. This major adheres to the training philosophy of being grounded in classics and focusing on reality, and is oriented towards contemporary world and contemporary China's practical issues, aiming to cultivate talents for governance and administration with theoretical thinking, strategic thinking, political conviction, and high moral character.",
+        "ann": [
+            403,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            333,
+            335,
+            356,
+            357,
+            358,
+            359,
+            360,
+            361,
+            362,
+            363,
+            364,
+            365,
+            366,
+            367,
+            368
+        ],
+        "zh_context": "培养高素质专业理论人才。本专业面向中国特色社会主义现代化建设、面向中华民族 伟大复兴的需要,坚持 “宽口径、厚基础、重创新、国际性”的培养模式,致力于培养基 础扎实、知识面宽、人文素养高、综合创新能力强的马克思主义理论人才。 培养治国理政的马克思主义人才。马克思主义最强调理论与实践的结合。本专业坚持 “埋首经典、关注现实”的培养理念,坚持以当代世界、当代中国的实际问题为导向,培 养具有理论思维、战略思维、政治坚定、品德高尚的治国理政人才。 "
+    },
+    {
+        "id": 55,
+        "name": "广播电视学专业",
+        "context": "To cultivate professionals with a broad cultural and scientific knowledge, a systematic understanding of news communication theories, and skills in audiovisual production. They should be familiar with China's news communication policies and regulations, adaptable to interdisciplinary and integrated media development, and capable of working as senior professionals in audiovisual editing, journalism, and promotional management in television and radio stations, government organizations, and large enterprises and institutions.",
+        "ann": [
+            382,
+            262,
+            28,
+            369,
+            370,
+            29,
+            377,
+            379,
+            380,
+            381,
+            30
+        ],
+        "zh_context": "培养具备宽广的文化与科学知识、系统的新闻传播理论知识与视听专业技能,熟悉我 国新闻传播政策与法规,适应跨学科和融媒体发展需要,能在视听媒体和机关以及大型企 事业单位从事视听编辑、记者与宣传管理等工作的高级专业人才。 "
+    },
+    {
+        "id": 56,
+        "name": "新闻学专业",
+        "context": "Train professionals in journalism who possess systematic knowledge and skills in news theory, adapt to the interdisciplinary and integrated media talent needs, familiar with China's news and propaganda policies and regulations, and have both moral integrity and competence. These professionals are capable of working as editors, journalists, and managers in news, publishing, and publicity departments.",
+        "ann": [
+            262,
+            393,
+            369,
+            370,
+            371,
+            372,
+            373,
+            374,
+            375,
+            376,
+            377,
+            30
+        ],
+        "zh_context": "培养具备系统的新闻理论知识与技能、适应跨学科和融媒体人才培养的需要、熟悉我 国新闻、宣传政策法规,德才兼备,能在新闻、出版与宣传部门从事编辑、记者与管理等 工作的新闻学高级专门人才。"
+    },
+    {
+        "id": 57,
+        "name": "广告学专业",
+        "context": "Train talents who have solid professional foundation and broad cultural and scientific literacy, master professional skills, understand China's propaganda policies and regulations, and are capable of working in news media, government agencies, internet companies, enterprises, advertising and various marketing communication companies, cultural industry sectors, and other high-quality positions.",
+        "ann": [
+            384,
+            385,
+            386,
+            387,
+            388,
+            389,
+            390,
+            391,
+            392,
+            369,
+            370,
+            377,
+            30
+        ],
+        "zh_context": "培养具备扎实的专业基础和宽厚的的文化科学素养,掌握专业技能,了解我国宣传政 策法规,能在新闻媒体、政府机构、互联网公司、企业、广告及各类营销传播公司、文化 产业部门等工作的高质量人才。"
+    },
+    {
+        "id": 58,
+        "name": "广播电视学专业专题片及纪录片创作",
+        "context": "(1) Dedicate oneself to studying the basic principles of Marxism, with firm ideals and beliefs, abide by laws and regulations, uphold the core socialist values, love the motherland and the people, and strive for comprehensive development in morality, intelligence, physical fitness, aesthetics, and labor. \n(2) Familiarize oneself with the basic theories and knowledge of advertising, and possess certain academic research abilities. \n(3) Master professional skills in advertising and marketing communications, and possess practical operational capabilities. \n(4) Understand the forefront of the professional field, demonstrate good proficiency in foreign languages, and possess excellent overall qualities and social activity abilities.",
+        "ann": [
+            382
+        ],
+        "zh_context": "(1)认真学习马克思主义基本原理,理想信念坚定,遵纪守法,坚持社会主义核心价 值观,热爱祖国,热爱人民,德智体美劳全面发展。 (2)熟悉广告学的基本理论和基础知识,并具备一定的学术研究能力。 (3)掌握广告及营销传播的专业技能,并具备一定的实际操作能力。 (4)了解专业领域前沿发展,外语水平良好,具有很好的综合素质和社会活动能力"
+    },
+    {
+        "id": 59,
+        "name": "经济学专业",
+        "context": "The Economics major is a \"national talent cultivation base for the foundation of national economics,\" a \"characteristic specialty construction site,\" and a construction site for the development of world-class specialties. The talent cultivation focuses on the integration of \"theory, history, and tools\" and adheres to a \"broad perspective and solid foundation\" approach. It combines innovative thinking with practical experience and integrates internationalization with localization. In the cultivation process, it revolves around the fundamental task of \"cultivating students' virtues and abilities,\" emphasizing the foundation of economics and promoting interdisciplinary integration while placing students' growth at the center. \n\nGraduates of this major will have a broad view of \"serving the country and benefiting the people,\" a solid foundation in economics, and mastery of cutting-edge research methods. They will be grounded in the reality of China while considering global issues. After graduation, some students may stand out in companies, using their knowledge of economic theory to contribute to practical work, and eventually become industry leaders within 5 to 10 years. Others may choose to work in government departments, participating in national planning or dedicating themselves to grassroots work, contributing to China's economic and social development. Some may choose to continue their studies, furthering their research capabilities to an international level at domestic research institutions or foreign universities, and becoming top scholars in their field.",
+        "ann": [
+            394,
+            395,
+            396,
+            397,
+            398,
+            399,
+            400,
+            401,
+            402,
+            403,
+            404,
+            405,
+            406,
+            407
+        ],
+        "zh_context": "经济学专业是“国家经济学基础人才培养基地”“特色专业建设点”和国家一流专业建设 点,人才培养强调“理论、历史、工具”的统一,坚持“宽口径、厚基础”,创新思维培养与社会实 践紧密结合、国际化与本土化有机结合。在培养环节,紧紧围绕“立德树人”根本任务,重视 经济学基础,强调跨学科融合,真正做到“以学生成长为中心”。 本专业培养的学生将具有“经世济民”的胸怀,扎实的经济学基础,掌握前沿研究方法, 立足中国现实,兼顾世界问题。学生毕业后,有的可以在公司中脱颖而出,以经济学理论知 识助力实际部门工作,5~10年成为行业领军人物;有的可以在政府部门工作,参与国家规 划或是扎根基层,为中国经济社会建设贡献力量;有的选择继续学习,以具有国际水平的科 研能力在国内科研院所或是国外大学不断深造,成为领域内的顶尖学者。 "
+    },
+    {
+        "id": 60,
+        "name": "国际经济与贸易专业",
+        "context": "This major cultivates comprehensive talents in the field of international economics and multinational operations, with solid economic theory, proficient and standardized foreign language skills, and excellent application of computer network technology. The goal is to meet the demand for new talents with a global perspective in China's all-round opening-up. After graduation, students can work in the international departments of governments or financial institutions, engaging in economic analysis and project planning. They can also work as decision consultants and management consultants in various foreign companies and multinational corporations. In addition, they can take on teaching and research positions in universities and research institutions, or pursue further studies abroad or in China to strive for higher goals. From the third year of university, the major focuses on world economy, international trade, international finance, international investment, economic globalization, country-specific economics, WTO research, and \"Belt and Road\" research.",
+        "ann": [
+            404,
+            408,
+            409,
+            410,
+            411,
+            412,
+            413,
+            414
+        ],
+        "zh_context": "本专业培养经济理论扎实、外语熟练规范、计算机网络应用技术好的综合型涉外经济与 跨国经营方面的人才,以努力适应中国全方位开放对具有全球视野的新型人才的需求。学 生毕业后,可以在政府或金融机构的涉外部门中担任经济分析和项目规划等工作,可以从事 各类外企和跨国公司的决策参谋和管理咨询等方面的工作,也可以承担大专院校和科研机 构的教学和科研等工作,还可以出国留学或在国内继续深造以冲击更高的目标。从大学三 年级开始,本专业培养方向主要侧重于世界经济、国际贸易、国际金融、国际投资、经济全球 化、国别经济、WTO研究、“一带一路”研究等。 "
+    },
+    {
+        "id": 61,
+        "name": "金融学专业",
+        "context": "This major aims to cultivate applied professionals who are both competent and virtuous to engage in work related to finance, economics, foreign cooperation and exchange, management of foreign finance enterprises, investment, financing, financial teaching, government policies, public finance, and research on foreign financial issues.",
+        "ann": [
+            416,
+            32,
+            418,
+            417,
+            415,
+            430,
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            338,
+            312,
+            409,
+            414,
+            31
+        ],
+        "zh_context": "本专业旨在培养能从事金融、经济、对外合作交流、涉外金融企业管理、投资、融资、金融 教学、政府政策、公共财政和外国金融问题研究等工作的德才兼备的应用型专门人材。"
+    },
+    {
+        "id": 62,
+        "name": "保险学专业",
+        "context": "Humanity is currently in a typical risk society where risk management is a crucial aspect of modern state governance. The demand for high-level professionals in risk management and insurance by the state is becoming increasingly urgent. This major adheres to Peking University's undergraduate education concept of \"putting students' growth at the center and integrating general and specialized education.\" Through a standardized teaching system, rich teaching content, and advanced teaching methods, we strive to cultivate high-level professionals who are \"highly qualified, have a broad foundation, and possess expertise\" and who are capable of working in the fields of economics, finance, risk management, and insurance both domestically and internationally. We aim to nurture \"people who can lead the future.\"",
+        "ann": [
+            416,
+            419,
+            420,
+            421,
+            422,
+            423,
+            424
+        ],
+        "zh_context": "人类正处在一个典型的风险社会之中,风险管理是国家治理现代化的题中应有之义,国 家对风险管理与保险领域高端人才的需求日益迫切。本专业遵循北京大学“以学生成长为 中心、通识教育与专业教育相结合”的本科教育理念,通过规范的教学体系、丰富的教学内容 和先进的教学方式,致力于培养“素质高、基础宽、有专长”,能胜任国内外经济、金融、风险管 理与保险领域工作的高端人才,培养“能够引领未来的人”。"
+    },
+    {
+        "id": 63,
+        "name": "财政学专业",
+        "context": "The educational objectives of the major in public finance aim to cultivate highly skilled professionals with a broad and solid foundation in economic theory and a strong sense of social responsibility. Graduates of this major are familiar with knowledge in public finance, taxation, and financial accounting. They possess a high level of proficiency in foreign languages and computer applications, as well as strong research, decision-making, and management capabilities. They are able to engage in management and research work related to public finance, macroeconomics, and taxation. Graduates of this major can find employment in important government departments, research institutions, judicial departments, as well as major financial institutions, large domestic and foreign enterprises, renowned intermediary agencies, prestigious universities, and non-governmental organizations, among others.",
+        "ann": [
+            416,
+            424,
+            425,
+            426,
+            427,
+            428,
+            340
+        ],
+        "zh_context": "财政学专业育人目标旨在培养具有宽厚扎实的经济学理论基础,以及很强的社会责任 感的高级专业人才。本专业毕业生熟悉财政税务、财务会计知识,具备较高的外语和计算机 运用水平、较强的研究能力、决策能力和管理能力;并能够胜任公共财政、宏观经济、财税方 面的管理和研究工作。本专业毕业生可以就职于国家重要行政部门、研究机构、司法部门以 及各大金融机构、中外大型企业、知名中介机构、著名学府,以及非政府组织等。 "
+    },
+    {
+        "id": 64,
+        "name": "金融学 金融经济方向",
+        "context": "Strengthening three aspects of training for students with a certain foundation in monetary finance theory: (1) enhancing the training in the basic theories of economics and finance to meet the students' needs for further study; (2) strengthening training in research methods in economics to meet the needs of promising students for further advancement; (3) enhancing training in the ability to analyze economic policies to meet the needs of students in different job positions.",
+        "ann": [
+            33,
+            34,
+            35,
+            430,
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            338,
+            437,
+            340,
+            312
+        ],
+        "zh_context": "在学生具有一定的货币金融理论基础上加强三个方面的训练:①加强经济学与金融学 的基础理论的训练,满足学生进一步学习的需要;②加强经济学研究方法方面的训练,满 足有潜力的学生进一步深造的需要;③加强经济政策分析能力的训练,满足学生在不同工 作岗位的需要。"
+    },
+    {
+        "id": 65,
+        "name": "会计学专业",
+        "context": "The \"research-based learning + participatory discussion + team-based practice\" model is used to cultivate students with the fundamental qualities of a financial director, chief accountant, and financial manager: proficient knowledge in the field and interdisciplinary knowledge, excellence in financial and accounting work abilities, research and innovation abilities, decision support abilities, and strategic leadership abilities, as well as strong communication skills in both Chinese and English and a good professional ethics.",
+        "ann": [
+            430,
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            338,
+            437,
+            312
+        ],
+        "zh_context": "通过 “研究型学习+参与式讨论+团队化实践”的模式,培养学生具备财务总监、总 会计师和财务管理者的基础素质:熟练掌握精深的专业知识和广博跨学科知识,卓越的财 会工作能力、研究与创新能力、辅助决策能力以及战略领导能力,同时具备较强的中英文 沟通能力以及良好的职业道德。"
+    },
+    {
+        "id": 66,
+        "name": "市场营销专业",
+        "context": "To cultivate students with a basic understanding of economics and management theories; to cultivate students with specialized knowledge in domestic and international marketing management; to equip students with the ability to make market marketing management decisions and implement them in practice; the students will be well prepared to engage in domestic and international market marketing, development, management, and forecasting work in companies and multinational corporations.",
+        "ann": [
+            36,
+            37,
+            38,
+            39,
+            430,
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            338,
+            437,
+            312
+        ],
+        "zh_context": "培养学生具有经济学、管理学的基础理论;培养学生具有国内、国际营销管理的专业 知识;培养学生具有市场营销管理决策和实践的能力;学生将适于在公司和跨国公司中从 事国内国际市场营销、开发、管理、预测工作。"
+    },
+    {
+        "id": 67,
+        "name": "市场营销专业 数据科学方向",
+        "context": "Combining the knowledge modules of economics, finance, and management, with a focus on training in big data analysis methods and artificial intelligence technology, this program aims to provide students with a comprehensive understanding of the frontier developments in data analysis, while closely relating to China's national conditions and industry demands. The goal is to cultivate advanced talents who are proficient in both the commercial value of data and possess expertise in technology and management.",
+        "ann": [
+            355,
+            40,
+            41,
+            42,
+            43,
+            44,
+            430,
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            338,
+            437,
+            312
+        ],
+        "zh_context": "将经济、金融、管理三个知识模块相结合,注重大数据分析方法及人工智能技术的训 练,使学生既了解数据分析的前沿发展,又能密切联系中国的国情和行业需求,成为精通 数据商业价值、技术与管理兼备的高级人才。"
+    },
+    {
+        "id": 68,
+        "name": "工商管理专业",
+        "context": "To cultivate high-quality talents with a solid foundation in business administration theory and practical application, critical thinking skills, a strong sense of social responsibility, and a broad global perspective and cross-cultural communication understanding, for industries, academia, government, or non-governmental organizations, etc.",
+        "ann": [
+            45,
+            46,
+            47,
+            432,
+            431,
+            48,
+            430,
+            49,
+            50,
+            51,
+            52,
+            338,
+            53,
+            437
+        ],
+        "zh_context": "为商界、学界、政界或非政府组织等培养具有扎实的工商管理理论基础和实践应用能 力、具备批判性思维和强烈的社会责任感、拥有广阔的全球化视野及跨文化沟通理解能力 的高素质人才。 "
+    },
+    {
+        "id": 69,
+        "name": "金融学",
+        "context": "This major aims to cultivate applied specialized professionals who are both competent and virtuous in engaging in tasks such as finance, economics, foreign cooperation and communication, management of foreign financial enterprises, investment, financing, financial education, government policies, public finance, and research on foreign financial issues.",
+        "ann": [
+            437
+        ],
+        "zh_context": "本专业旨在培养能从事金融、经济、对外合作交流、涉外金融企业管理、投资、融资、金融 教学、政府政策、公共财政和外国金融问题研究等工作的德才兼备的应用型专门人材。"
+    },
+    {
+        "id": 70,
+        "name": "经济学 国家发展方向",
+        "context": "The major of Economics (National Development Orientation) aims to cultivate interdisciplinary economists. Through comprehensive research focusing on the laws of national development, it aims to train highly qualified talents with international perspectives, solid foundations, broad knowledge, and emphasis on practical skills. The major also aims to cultivate academic talents for economic research and teaching, as well as leaders in integrated economic management departments, policy research departments, financial institutions and enterprises engaged in research and management work.",
+        "ann": [
+            437,
+            438,
+            439,
+            440,
+            441,
+            442,
+            443
+        ],
+        "zh_context": "经济学(国家发展方向)专业旨在培养具有跨学科视角的经济学人才。通过专注于国家 发展规律的综合性研究,培养具有国际视野、厚基础、宽口径、重实践的高素质人才,培养经 济学研究和教学的学术后备人才,以及在综合经济管理部门、政策研究部门、金融机构和企 业从事研究与管理工作的领军人物"
+    },
+    {
+        "id": 71,
+        "name": "政治 经济与哲学专业、",
+        "context": "Through four years of study, students will acquire a good education in political ideology, moral character, cultural literacy, and physical and mental well-being. They will also gain basic knowledge in philosophy, political science, and economics, and establish a solid foundation in understanding and research methodology, providing support for further learning and helping them achieve sustainable self-development. This program aims to produce outstanding talents for government agencies, social management departments, wealth creation sectors, and domestic and international philosophy and social science research institutions.",
+        "ann": [
+            331,
+            332,
+            54,
+            445,
+            446
+        ],
+        "zh_context": "通过4年学习,使学生获得良好的政治思想、道德品质、文化修养和身心素质教育, 掌握基本的哲学、政治学和经济学知识,打好认识和研究方法论基础,为今后的进一步学 习提供支撑,帮助学生实现自我可持续发展。为政府机关、社会管理部门、财富创造部门 和国内外哲学社会科学研究机构输送优秀人才。 "
+    },
+    {
+        "id": 72,
+        "name": "数学与应用数学专业",
+        "context": "Basic Mathematics Direction: This major aims to cultivate talents who have a preliminary ability to engage in cutting-edge academic research on contemporary issues in basic or applied mathematics. These talents should possess both moral integrity and professional competence.\n\nFinancial Mathematics Direction: This major aims to cultivate mathematicians with a solid foundation in mathematics and statistics, proficient data analysis skills, and a mastery of the fundamental principles and knowledge of finance. These mathematicians will be prepared for careers in the finance field and applied mathematics research. Currently, the major offers two main directions of study: Financial Mathematics and Actuarial Science.",
+        "ann": [
+            450,
+            451,
+            452,
+            453,
+            454,
+            455,
+            456,
+            458
+        ],
+        "zh_context": "基础数学方向 本专业旨在培养初步具备在基础数学或应用数学某个方向从事当代学术前沿问题研究 的德才兼备的人才。 金融数学方向 本专业旨在培养具有扎实的数学和统计基础、良好的数据分析技能并掌握金融基本原 理和知识的面向金融领域和应用数学研究的数学人才,目前分为金融数学和精算学两个主 要培养方向。"
+    },
+    {
+        "id": 73,
+        "name": "统计学专业",
+        "context": "This major aims to cultivate comprehensive talents who are both competent in theoretical research of statistics and capable of practical application work in data analysis and artificial intelligence. It strengthens the cultivation and training of students in professional foundation, statistical thinking, applied skills, and modern technologies. It encourages students to choose elective courses in various disciplines such as science, engineering, agriculture, medicine, and humanities, striving to cultivate outstanding statisticians with solid professional foundation, strong hands-on ability, scientific innovation literacy, civilized and confident character, as well as international professional vision.",
+        "ann": [
+            450,
+            451,
+            452,
+            453,
+            454,
+            455,
+            456,
+            458,
+            460
+        ],
+        "zh_context": "本专业旨在培养既能够从事统计学相关的理论研究、又能够从事数据分析和人工智能 等方面的实际应用工作的德才兼备的综合性人才。 在专业基础、统计思想,应用技能和现代技术等方面加强学生的培养和训练,鼓励学 生在理工农医文等各个学科选修课程,着力培养专业基础扎实,动手能力强,具有科学创 新素养、文明自信品格和国际专业视野的优秀统计人才。"
+    },
+    {
+        "id": 74,
+        "name": "应用统计学专业",
+        "context": "Through four years of study, students should master a solid foundation in mathematical theory and statistical knowledge, acquire skills and techniques in statistical applications, and have strong practical abilities. They should also develop interdisciplinary research or applied thinking, possess good scientific innovation literacy, achieve a level of English proficiency equivalent to the National Level 4, demonstrate good communication skills, and possess the ability to study independently, conduct preliminary research, and adapt to different socio-professional needs.",
+        "ann": [
+            450,
+            451,
+            452,
+            453,
+            454,
+            455,
+            458
+        ],
+        "zh_context": "通过四年的学习,学生应掌握扎实的数学理论基础和统计知识,掌握统计应用技能和 技术,动手能力强;培养跨学科研究或者应用思维,具有良好的科学创新素养;英语水平 达到国家四级,具有良好的表达能力,具备独立学习的能力、初步的研究能力以及较强的 适应不同社会职业需要的能力。"
+    },
+    {
+        "id": 75,
+        "name": "信息与计算科学专业",
+        "context": "Mathematical direction\nThis major aims to cultivate versatile talents who can work in research institutions and universities for scientific research and teaching, as well as in departments and high-tech enterprises and companies such as computer, aerospace, radio, remote sensing, architectural design, national defense, finance and trade, management, metallurgy, chemical engineering, petroleum, and machinery manufacturing.\n\nInformation science direction\nGraduates in this field have a wide range of adaptability and can continue their studies in research directions such as signal processing, image processing, artificial intelligence, software development methods, and theoretical computer science. They can also directly enter research departments and companies to engage in practical work related to computers and information processing.",
+        "ann": [
+            657,
+            658,
+            659,
+            660,
+            661,
+            680,
+            682,
+            683,
+            684,
+            55,
+            706,
+            451,
+            452,
+            453,
+            454,
+            455,
+            450,
+            458,
+            715,
+            716,
+            717,
+            719,
+            720,
+            109
+        ],
+        "zh_context": "计算数学方向 本专业旨在培养具有广泛适应性的人才。既可在科研机构、高等学校从事科研和教学 工作;也可到计算机、航天、无线电、遥感、建筑设计、国防、财贸金融、管理、冶金、 化工、石油、机器制造等部门和高新技术企业及公司工作。 信息科学方向 本方向毕业生有广泛的适应性,可继续攻读信号处理,图像处理、人工智能、软件开 发方法和理论计算机科学等研究方向的研究生,也可直接进入研究部门及公司企业从事计 算机、信息处理方面的实际工作。"
+    },
+    {
+        "id": 76,
+        "name": "数据科学与大数据技术专业",
+        "context": "This major aims to cultivate talents who have a solid foundation in the basic theories of data science, such as mathematics, computer science, and statistics, as well as skills in data modeling, machine learning, parallel and distributed computing, and statistical inference. Graduates are equipped to conduct research on data modeling, data analysis, and data mining algorithms, as well as to engage in the development of big data systems. They can pursue further studies in research institutions or universities, work in research-related positions in the field of data science, or find employment in industries such as biology, finance, transportation, and healthcare, where they can contribute to data collection, management, analysis, and processing.",
+        "ann": [
+            128,
+            779,
+            657,
+            658,
+            659,
+            660,
+            661,
+            680,
+            683,
+            684,
+            55,
+            56,
+            57,
+            450,
+            451,
+            452,
+            453,
+            710,
+            454,
+            709,
+            457,
+            458,
+            459,
+            720,
+            109
+        ],
+        "zh_context": "本专业致力于培养掌握数学、计算机、统计等数据科学相关领域基础理论知识,以及 数据建模、机器学习、并行与分布式计算、统计推断等方法和技术,从事数据建模、数据 分析与挖掘算法等问题的研究和大数据系统开发的研究型和技术型人才。毕业生可在科研 机构或高校继续深造、从事数据科学相关的科研工作,也可在生物、金融、交通、医疗等 自然科学和社会科学领域或业界从事大数据的采集、管理、分析与处理方面的工作。"
+    },
+    {
+        "id": 77,
+        "name": "物理学专业",
+        "context": "The physics major focuses on the cultivation of professional foundation and comprehensive qualities, so that after four years of study, students will have the ability to engage in scientific research and teaching in the field of physics and its interdisciplinary subjects, as well as to participate in the development of high-tech applications and management of large-scale engineering projects in related fields.",
+        "ann": [
+            487,
+            461,
+            462,
+            463,
+            464,
+            465,
+            466,
+            467,
+            468,
+            469,
+            470,
+            472,
+            473,
+            474
+        ],
+        "zh_context": "物理学专业注重专业基础和综合素质的培养,经过四年学习,使学生初步具备适合在 物理学及其交叉学科进行科研和教学、进行高新技术应用开发以及相关大型工程项目管理 等多个领域工作的能力。"
+    },
+    {
+        "id": 78,
+        "name": "核物理 核科学与技术 专业",
+        "context": "The major of Nuclear Physics (Nuclear Engineering and Nuclear Technology) focuses on cultivating students' professional foundation and comprehensive qualities. After four years of study, students are equipped with preliminary abilities suitable for conducting scientific research and teaching in the field of nuclear science and technology, developing high-tech applications, as well as managing large-scale engineering projects in related fields.",
+        "ann": [
+            487,
+            461,
+            462,
+            463,
+            464,
+            465,
+            466,
+            467,
+            468,
+            469,
+            470,
+            472,
+            473,
+            474
+        ],
+        "zh_context": "核物理 (核工程与核技术)专业注重专业基础和综合素质的培养,经过四年学习,使 学生初步具备适合在核科技领域进行科研和教学、进行高新技术应用开发以及相关大型工 程项目管理等多个领域工作的能力。"
+    },
+    {
+        "id": 79,
+        "name": "大气科学专业",
+        "context": "The major in Atmospheric Science aims to cultivate students' values of loving science, innovative thinking habits, and the ability to engage in atmospheric science-related work in the fields of education and research. By comprehensively enhancing students' professional literacy and comprehensive qualities, it will foster internationally leading innovative talents in the field of atmospheric science.",
+        "ann": [
+            481,
+            482,
+            483,
+            484,
+            485,
+            486,
+            487,
+            461,
+            462,
+            463,
+            464,
+            465,
+            466,
+            467,
+            468,
+            469,
+            470
+        ],
+        "zh_context": "大气科学专业旨在全面培养学生热爱科学的价值观、创新性的思维习惯和在教育/科 研领域从事大气科学相关工作的能力。通过全面提升学生的专业素养和综合素质,培养国 际领先的创新型大气科学专业人才。"
+    },
+    {
+        "id": 80,
+        "name": "天文学专业 天体物理方向",
+        "context": "The Department of Astronomy offers two training directions: Astrophysics and Advanced Technologies and Applications in Astronomy. The goal of the Astrophysics direction is to equip students with a solid foundation in mathematics, physics, and comprehensive knowledge of astronomy. They will also receive rigorous training in computer skills, foreign languages, and other technical skills, enabling them to have initial capabilities in conducting research in astrophysics. In addition to achieving the aforementioned training objectives, students in the Advanced Technologies and Applications direction should also acquire knowledge in new technologies and applications in astronomy. Due to the forwardness of astronomical technologies in relevant fields, graduates from this direction can also engage in the development and application of advanced technologies or undertake management roles in large-scale engineering projects. They will be able to adapt to the needs of various professional settings.",
+        "ann": [
+            480,
+            487,
+            462,
+            463,
+            464,
+            465,
+            466,
+            467,
+            468,
+            475,
+            476,
+            477,
+            478
+        ],
+        "zh_context": "天文学系设有天体物理和天文高新技术与应用两个培养方向。天体物理方向的培养目 标是使学生掌握广泛坚实的数学、物理基础及全面的天文学知识,并在计算机、外语和其 他专业技能方面受到严格训练,具有从事天体物理学研究的初步能力。天文高新技术与应 用方向的学生除达到上述培养目标外,还应掌握天文新技术与应用的有关知识。由于天文 新技术在相应领域的超前性,该方向的毕业生还可从事高新技术的开发及应用或大型工程 项目的管理工作,并能适应多方面工作的需要。"
+    },
+    {
+        "id": 81,
+        "name": "天文学专业 天文高新技术与应用方向",
+        "context": "1. Requirements for knowledge structure: Have a solid understanding of the basic theories and observation methods of astronomy, possess the necessary knowledge in mathematics and computer science, be proficient in reading professional journals and conducting literature searches in a foreign language, and have a certain level of knowledge in humanities and social sciences.\n2. Requirements for ability structure: Possess the ability to independently acquire knowledge, engage in preliminary scientific research and teaching in the field of astronomy and its interdisciplinary subjects, carry out high-tech application development, and manage related large-scale engineering projects.",
+        "ann": [
+            487,
+            488,
+            490,
+            462,
+            463,
+            464,
+            465,
+            466,
+            467,
+            468,
+            58,
+            475,
+            476,
+            477,
+            478,
+            479
+        ],
+        "zh_context": "1.知识结构要求 系统扎实地掌握天文学的基本理论和基本观测方法,具备所需的数学和计算机等方面 的基础知识,较熟练地运用外语阅读专业期刊和进行文献检索,具有一定的人文社会科学 知识。 2.能力结构要求 具有独立获取知识的能力,具有从事天文学及其交叉学科进行初步科研和教学、进行 高新技术应用开发以及相关大型工程项目管理等多个领域工作的能力。 "
+    },
+    {
+        "id": 82,
+        "name": "化学专业",
+        "context": "This major aims to cultivate exceptional, well-rounded leaders with a strong foundation, broad perspective, and outstanding abilities. Graduates can work in scientific research, education, technology development, and management in fields such as chemistry and its related areas including biology, medicine, materials, environment, energy, geology, and cultural heritage conservation.",
+        "ann": [
+            492,
+            493,
+            494,
+            495,
+            496,
+            497,
+            498,
+            499,
+            500,
+            469,
+            501
+        ],
+        "zh_context": "本专业旨在培养基础扎实、视野开阔、能力超群、全面发展的引领型人才。学生毕业 后可在化学及相关领域如生物、医药、材料、环境、能源、地学、文物保护等从事科学研 究、教育教学、科技开发和管理工作"
+    },
+    {
+        "id": 83,
+        "name": "材料化学专业",
+        "context": "This major aims to cultivate high-quality talents who can engage in scientific research, education, technological development, and management in the field of materials science (inorganic functional materials, organic functional materials, polymer materials, biomedical materials, etc.). It emphasizes the learning and mastery of professional knowledge and skills in material design, synthesis, characterization, and structure-property relationships from a chemical perspective based on a solid foundation in chemistry. Students are expected to learn scientific research methods, develop good scientific research habits, and be able to independently research and solve practical problems in interdisciplinary fields related to materials.",
+        "ann": [
+            492,
+            493,
+            494,
+            495,
+            496,
+            497,
+            498,
+            499,
+            500,
+            469,
+            501
+        ],
+        "zh_context": "本专业旨在培养能够从事材料科学 (无机功能材料、有机功能材料、高分子材料、生 物医用材料等)相关领域科学研究、教育教学、科技开发和管理工作的高素质 (基础扎 实、视野开阔、全面发展)人才。强调在具备坚实的化学基础之上,从化学的角度学习和 掌握材料的设计、合成、表征及构效关系等方面的专业知识和技能,学会科学研究的方 法,养成良好的科学研究习惯,能独立研究解决材料相关的多学科交叉领域的实际问题。 "
+    },
+    {
+        "id": 84,
+        "name": "化学生物学专业",
+        "context": "After four years of study, students will have acquired a solid foundation in mathematics, physics, and information literacy. They will have mastered the basic theories, knowledge, and experimental methods of chemistry and biology, and developed scientific thinking and experimental skills for fundamental and applied research. With a solid foundation in chemistry and a grasp of the basic knowledge and skills of biology, students will be provided with diversified and personalized teaching programs, enabling them to become independent learners and problem solvers across disciplines. They will also develop innovation consciousness and possess the ability to conduct scientific research in the interdisciplinary field of biology and medicine.",
+        "ann": [
+            492,
+            493,
+            494,
+            495,
+            496,
+            497,
+            498,
+            499,
+            500,
+            469,
+            501
+        ],
+        "zh_context": "通过四年的学习,学生在打下数学物理信息的基本素养,掌握扎实的化学与生物科学 的基本理论、基本知识和实验方法,掌握在基础研究和应用基础研究的科学思维和实验的 训练,具有扎实的化学基础,掌握生物学的基础知识和基本技能。为学生提供多元化和个 性化教学方案,使学生具备自主学习和跨学科解决问题的能力,具备创新意识,具备进行 生物学与医学交叉领域相关科学研究的能力。 "
+    },
+    {
+        "id": 85,
+        "name": "应用化学专业",
+        "context": "To cultivate professionals with a solid foundation in chemistry, mastery of specialized knowledge in nuclear science and technology, and the ability to engage in teaching, research, and application in the fields of nuclear science and technology, as well as in interdisciplinary areas such as radiation chemistry, life sciences, and medicine.",
+        "ann": [
+            492,
+            493,
+            494,
+            495,
+            496,
+            497,
+            498,
+            499,
+            500,
+            469,
+            501
+        ],
+        "zh_context": "培养具有坚实的化学基础,掌握核科学和核技术领域的专门知识,可以在核科学和核 技术领域、在放射化学与生命科学、医学等交叉领域从事教学、研究和应用的复合型专业 人才。"
+    },
+    {
+        "id": 86,
+        "name": "生物科学专业",
+        "context": "A student majoring in Biological Science should achieve the following goals after four years of study: \n1. Possess a solid foundation in mathematics, physics, and chemistry, as well as basic skills in laboratory experiments. \n2. Systematically master the basic theories, knowledge, and skills of modern biology and its important branches, and be proficient in research methods and experimental techniques in biological science. \n3. Receive preliminary training in scientific research, possess scientific thinking methods and logical reasoning, and have good scientific style and scientific qualities. \n4. Possess a scientific spirit that combines theory with practice, seeks truth from facts, engages in independent thinking, and is innovative. \n5. Have a good understanding of the cutting-edge development in biological science and have the ability to engage in basic research, applied research, and scientific research and development.",
+        "ann": [
+            512,
+            513,
+            514,
+            515,
+            516,
+            517,
+            503,
+            753,
+            502,
+            507,
+            504,
+            59,
+            508,
+            509,
+            510
+        ],
+        "zh_context": "生物科学专业的学生经过四年学习,应达到如下目标:①具备坚实的数、理、化基础 和基本理化实验技能。②系统掌握现代生物学及其重要分支学科的基本理论、基本知识和 基本技能,掌握生物科学的研究方法和实验技术。③受到科学研究的初步训练,具备科学 研究的思考方法和逻辑思维,拥有良好的科学作风和科学素质。④富有理论联系实际、实 事求是、独立思考、勇于创新的科学精神。⑤对生物科学的前沿发展有较好的了解,具有 一定的从事基础研究及应用研究和科研开发能力。"
+    },
+    {
+        "id": 87,
+        "name": "生物技术专业",
+        "context": "This major aims to cultivate versatile talents with broad knowledge, innovative thinking, and self-confidence. Graduates will be capable of engaging in scientific research, biological product and technology development, talent cultivation, and scientific management in the fields of teaching, scientific research, the biotechnology industry, and related areas. They will possess both moral integrity and comprehensive development, and will become leading talents in their respective fields.",
+        "ann": [
+            512,
+            513,
+            514,
+            515,
+            516,
+            517,
+            518,
+            519,
+            520,
+            521,
+            59,
+            753,
+            502,
+            503,
+            504,
+            507,
+            508,
+            509,
+            510
+        ],
+        "zh_context": "本专业旨在培养兼具广博知识、创新思维与自信心,能够在教学、科研、生物技术产 业及相关领域从事科学研究、生物产品和技术开发、人才培养以及科学管理的德才兼备、 全面发展的领军人才。 "
+    },
+    {
+        "id": 88,
+        "name": "生物信息学专业",
+        "context": "This major aims to cultivate versatile biinformatics research professionals with both a thorough understanding of life sciences and the capacity for research methodology and technological innovation.",
+        "ann": [
+            512,
+            513,
+            514,
+            515,
+            516,
+            517,
+            522,
+            523,
+            529,
+            535,
+            537,
+            59,
+            753,
+            502,
+            503,
+            507,
+            508,
+            509,
+            510,
+            511
+        ],
+        "zh_context": "本专业旨在培养既具有生命科学研究素养、又有能力进行研究方法和技术创新的复合 型生物信息学研究人才。"
+    },
+    {
+        "id": 89,
+        "name": "生态学专业",
+        "context": "The ecology major emphasizes the integration of general education and professional education, highlighting the cultivation of correct values and a sense of social responsibility, as well as the fostering of independent thinking and innovation. The ecology major focuses on inspiring students' interest in exploring the activities of nature, enhancing their enthusiasm for investigating and solving ecological and environmental issues, and laying a comprehensive and solid foundation for cultivating advanced specialists who can engage in ecological education and research, ecological and environmental protection, natural resource development and management, ecological planning and assessment, biodiversity conservation, and regional ecological restoration and construction.",
+        "ann": [
+            518,
+            519,
+            524,
+            525,
+            60,
+            527,
+            528,
+            526,
+            530,
+            531,
+            532,
+            533,
+            534,
+            536,
+            540,
+            541
+        ],
+        "zh_context": "生态学专业坚持通识教育与专业教育相结合,突出正确价值观和社会责任感的培育, 突出独立思考与创新能力的培养。 生态学专业注重激发学生探索大自然生命活动的兴趣,提高探究和解决生态与环境问 题的热情,为培养能够从事生态学教育与研究、生态环境保护、自然资源开发与管理、生 态规划与评估、生物多样性保护和区域生态恢复与建设等相关科研和管理工作的高级专门 人才打下全面而坚实的基础。"
+    },
+    {
+        "id": 90,
+        "name": "环境科学专业",
+        "context": "This major adheres to the principle of integrating general education with professional education, focusing on stimulating students' interest in exploring environmental issues and cultivating enthusiasm for solving environmental problems. Its aim is to cultivate well-rounded individuals with extensive knowledge and strong comprehensive qualities, as well as independent learning abilities, critical thinking skills, and practical abilities. Graduates will have a solid foundation in the basic theories, knowledge, and skills of environmental science, and will be capable of undertaking scientific research, teaching, environmental protection, and environmental management in research institutions, higher education institutions, enterprises, and governmental departments.",
+        "ann": [
+            542,
+            543,
+            544,
+            545,
+            546,
+            547,
+            548,
+            549,
+            550,
+            551,
+            552,
+            553,
+            554,
+            555,
+            556,
+            557,
+            558,
+            559,
+            560,
+            561,
+            562,
+            563,
+            565,
+            758,
+            759,
+            760,
+            761,
+            762,
+            763,
+            764,
+            765,
+            766
+        ],
+        "zh_context": "本专业坚持通识教育与专业教育相结合的原则,注重激发学生探索环境有关问题的兴 趣和探究解决环境问题的热情,旨在培养知识面广、综合素质强,具有自主学习能力、独 立思考能力和实践能力,具备环境科学的基础理论、基本知识和基本技能,能在科研机 构、高等院校、企事业单位及行政部门等从事科研、教学、环境保护和环境管理等工作的 卓越人才。"
+    },
+    {
+        "id": 91,
+        "name": "环境科学专业 环境健康方向",
+        "context": "After four years of study, students should have a solid understanding of fundamental knowledge in subjects such as mathematics, physics, chemistry, life sciences, environmental science, and public health. Additionally, they should also gain a systematic understanding of the basic theories and methods in the field of environmental health and have a general knowledge of them.",
+        "ann": [
+            609,
+            610,
+            556,
+            607,
+            753,
+            561,
+            507,
+            61,
+            62,
+            63
+        ],
+        "zh_context": "通过四年的学习,学生应掌握除了数学、物理、化学、生命科学、环境科学、公共卫 生学等学科基础知识外,还需要系统掌握环境健康专业方向的基本理论与基本方法,了解 "
+    },
+    {
+        "id": 92,
+        "name": "自然地理与资源环境专业",
+        "context": "Adhering to the cultivation philosophy of \"strengthening foundations, focusing on abilities, improving qualities, and emphasizing innovation,\" the training of talents in the field of physical geography upholds the principle of combining general education with professional education. Building upon the inheritance and reference of excellent physical geography education models at home and abroad, it aims to cultivate outstanding talents in modern physical geography with solid theoretical foundations, comprehensive and systematic professional knowledge, proficient basic skills, healthy physique and sound character, independent thinking and innovative spirit, practical abilities, and global vision. These talents are capable of working in research institutions, higher education institutions, relevant government departments, and companies engaged in natural resource development and management, land ecological protection and restoration, natural disaster prevention and warning, as well as regional and urban coordinated development. They are versatile individuals who can work across various fields.",
+        "ann": [
+            64,
+            65,
+            66,
+            592,
+            594,
+            596,
+            533,
+            597,
+            567,
+            568,
+            569,
+            570,
+            571,
+            572
+        ],
+        "zh_context": "秉持 “强化基础、注重能力、提高素质、突出创新”的培养理念,自然地理专业人才 培养坚持通识教育与专业教育相结合的原则,在传承和借鉴国内外优秀自然地理学教育模 式的基础上,培养现代自然地理学学科理论扎实雄厚、专业知识全面系统、基本技能熟练 多样,具有健康体魄与健全人格、独立思考与创新精神、实践能力与全球视野的卓越人 才,能在科研机构、高等院校、相关政府部门和企业从事自然资源开发与管理、国土生态 保护与修复、自然灾害防治与预警、区域和城市协同发展等领域工作的综合型人才。 "
+    },
+    {
+        "id": 93,
+        "name": "人文地理与城乡规划专业",
+        "context": "This major emphasizes both the theoretical foundations of human geography and the professional skills required for urban and rural planning. The goal is to cultivate professionals who can engage in scientific research in the field of human geography and undertake comprehensive tasks such as urban and regional development analysis, spatial planning, urban and regional planning, urban and rural planning management, real estate development and management, land management, enterprise management and consulting. Graduates will be able to quickly adapt to technical work in urban and regional planning services and research consulting, as well as planning management and scientific research.",
+        "ann": [
+            576,
+            577,
+            578,
+            67,
+            580,
+            581,
+            582,
+            599,
+            573,
+            574,
+            575
+        ],
+        "zh_context": "本专业人文地理理论基础与城乡规划专业技能培养并重。旨在培养能够从事人文地理 学专业领域科学研究和承担城市与区域发展综合分析、空间规划、城市与区域规划、城乡 规划管理、房地产开发与管理、土地管理、企业管理与咨询等任务的综合性人才。毕业生 能较快适应城市与区域规划服务和研究咨询等技术工作、规划管理工作和科研工作。 "
+    },
+    {
+        "id": 94,
+        "name": "城乡规划专业",
+        "context": "This major insists on combining general education with professional education, adhering to the integration of moral education, teaching, research, cultural development, and practical training in order to pursue the highest level of education. Its aim is to cultivate outstanding talents who take the world as their responsibility, possess innovative spirit, practical abilities, global perspectives, and can lead future development. These talents will be capable of engaging in land and spatial planning, urban and regional studies, urban-rural development, land use, world heritage, natural conservation areas, landscape, tourism, real estate planning, design, and management in research institutions, higher education institutions, enterprises and public institutions.",
+        "ann": [
+            578,
+            579,
+            580,
+            583,
+            584,
+            585,
+            586,
+            587,
+            588,
+            589,
+            590,
+            591,
+            603,
+            604
+        ],
+        "zh_context": "本专业坚持通识教育与专业教育相结合,坚持立德树人、教学育人、研究育人、文化 育人、实践育人相结合,追求世界最高水准的教育,旨在培养以天下为己任、具有创新精 神、实践能力、全球视野、引领未来发展的卓越人才,能在科研机构、高等院校、企事业 单位及行政部门等从事国土空间规划、城市与区域研究、城乡建设、土地利用、世界遗 产、自然保护地、景观、旅游、房地产等规划设计及管理的人才。"
+    },
+    {
+        "id": 95,
+        "name": "人文地理与城乡规划专业 国土空间规（划方向）",
+        "context": "This major aims to cultivate students with a broad knowledge base and strong overall abilities, including the ability to learn independently, think critically, and apply their knowledge in practice. Students will acquire a solid understanding of the fundamental theories, basic knowledge, and essential skills in territorial spatial planning. They will be prepared to excel in conducting scientific research, teaching, and management in the field of natural resource management and territorial spatial planning in research institutions, universities, enterprise and public institutions, and administrative departments.",
+        "ann": [
+            580,
+            586,
+            587,
+            603,
+            188,
+            605,
+            606,
+            604
+        ],
+        "zh_context": "本专业旨在培养知识面广、综合素质强,具有自主学习能力、独立思考能力、实践能 力,具备国土空间规划的基础理论、基本知识和基本技能,能在科研机构、高等院校、企 事业单位及行政部门等从事自然资源管理、国土空间规划相关科研、教学和管理的卓越 人才。"
+    },
+    {
+        "id": 96,
+        "name": "地质学专业",
+        "context": "To cultivate innovative leading talents in the field of geology with solid foundation in mathematics, physics, chemistry, and biology, comprehensive knowledge in geology, and critical thinking and independent analytical skills. The main objective is to train future talents who will serve in research institutions and universities, engaging in cutting-edge basic scientific research. Additionally, there is a focus on nurturing applied talents who will contribute to national needs in areas such as resources, environment, and disaster management.",
+        "ann": [
+            642,
+            643,
+            644,
+            645,
+            68,
+            615
+        ],
+        "zh_context": "着眼于培养具有扎实的数理化生基础、具备完善的地质学知识体系、具有批判性思维 和独立思考能力的创新型地质学领军人才。以培养未来服务于科研机构和大学的从事顶尖 基础科学研究的人才为主要目标,并兼顾培育未来服务于国家重大需求,涉及资源、环 境、灾害等相关领域的应用型人才。"
+    },
+    {
+        "id": 97,
+        "name": "地球化学专业",
+        "context": "Geology and Geochemistry major focuses on comprehensive cultivation of discipline foundation, practical hands-on abilities, and innovative thinking. Through four years of study, students will gain a good education in politics, ethics, cultural refinement, and physical and mental well-being. They will possess a solid foundation in mathematics, physics, chemistry, and biology, and will have a preliminary understanding of the systematic knowledge in geology. They will also acquire the ability to conduct field and indoor scientific research utilizing the basic knowledge and theories of geology. The major aims to cultivate critical thinking and independent thinking abilities, to understand the current research status and development direction of contemporary earth and space science, especially the theoretical forefront and application prospects of geology. Students will be equipped with the ability to engage in scientific research, higher education, scientific and technological development, and administrative management. The program aims to provide students aspiring to further study and pursue advanced degrees with a sound foundation of professional knowledge and basic skills training.",
+        "ann": [
+            642,
+            643,
+            644,
+            645,
+            614,
+            615,
+            68
+        ],
+        "zh_context": "地质学 地球化学专业方向,注重学科基础、实践动手能力和创新思维培养的综合培 养。通过四年学习,使学生获得良好的政治思想、道德品质、文化修养和身心素质教育; 具备扎实的数学、物理、化学、生物学基础,具有初步系统的地质学知识体系,初步掌握 利用地质学专业的基本知识、基础理论开展野外和室内地质学科学研究的能力。培养批判 性思维和独立思考能力,了解当代地球与空间科学的研究现状和发展方向,特别是地质学 的理论前沿和应用前景;具有从事科学研究、高等教育、科技开发和行政管理的能力。使 有志于进一步学习、深造的学生具有良好的专业基础知识育和基本技能训练。"
+    },
+    {
+        "id": 98,
+        "name": "地球物理学专业",
+        "context": "This major focuses on cultivating university students with a solid foundation in mathematics and physics, as well as a comprehensive understanding and mastery of basic knowledge in modern geophysics. The characteristics of this discipline determine that graduates not only possess strong scientific research abilities, but also are able to meet the diverse needs of modern society's work, and can become a new generation of technological and managerial talents. Most graduates of this major pursue postgraduate studies in domestic and foreign universities, while others mainly work in scientific research institutions, higher education institutions, energy and resources, aerospace and communications, and government departments for research, teaching, and senior management positions.",
+        "ann": [
+            640,
+            68,
+            616,
+            617,
+            618,
+            619,
+            620,
+            621,
+            622,
+            623
+        ],
+        "zh_context": "本专业注重培养大学生具备坚实的数学、物理基础,了解并掌握现代地球物理的基础 知识。本学科的特点决定了毕业学生不仅具有很强的从事科学研究的能力,而且能适应现 代社会多方面工作的需要,能够成为一代新型的科技与管理人才。本专业毕业生大部分考 取国内外研究生外,其余的主要到科研机构、高等院校、能源与资源、航天与通讯和国家 机关等部门从事科研、教学和高级管理工作。"
+    },
+    {
+        "id": 99,
+        "name": "地理信息科学专业",
+        "context": "Geographic Information Science aims to cultivate high-level innovative spatial information science and technology talents with both moral character and ability. It emphasizes the solid and extensive knowledge, basic theories, and fundamental skills of spatial information science for students. Targeting the major demands of the national economy and the significant scientific fields of global change and resource environment, the program trains students to become versatile professionals who not only have a solid foundation in remote sensing, geographic information systems, and satellite navigation positioning, but also have an understanding of the international frontier of the discipline and the research and engineering applications of scientific problems. Graduates are suitable for positions in various fields including information and communication, urban and regional planning, natural resources, environment, transportation, tourism, aviation and aerospace, public security, military, oceanography, and water conservation in government departments, research institutes, and IT companies, engaging in related scientific research, teaching, technology development, and management. More than 70% of undergraduate students in this program will be recommended for further study, with a substantial number of outstanding graduates exempt from entrance exams and directly recommended for doctoral programs or applying for further education abroad. Based on past experience, a considerable proportion of excellent students have been working in government departments, research institutes, domestic and foreign universities, and large high-tech enterprises, conducting scientific research, technological development, or management work.",
+        "ann": [
+            641,
+            68,
+            69,
+            592,
+            628,
+            629,
+            631,
+            632,
+            634,
+            636
+        ],
+        "zh_context": "地理信息科学专业以培养德才兼备的高水平创新型空间信息科学与技术人才为宗旨, 重视培养学生扎实而广博的空间信息科学基本知识、基本理论和基本技能。面向当前国民 经济重大需求和全球变化与资源环境重大科学领域,培养学生成为既掌握遥感、地理信息 系统和卫星导航定位领域的专业基础知识,又了解学科发展的国际前沿与科学问题的研究 与工程应用复合型人才。毕业生适合到信息与通讯、城市与区域规划、自然资源、环境、 交通、旅游、航空航天、公安、军事、海洋、水利等众多领域的政府部门、科研院所及 IT企业从事相关科研、教学、技术开发与管理等工作。本专业70%以上的本科生将会获 得推荐保研资格,其中相当数量的优秀毕业生可免试推荐直攻博士,或申请出国深造。从 以往毕业的学生来看,相当比例的优秀学生在政府部门、科研院所、国内外大学和大型高 科技企业从事科学研究、技术研发或管理工作。"
+    },
+    {
+        "id": 100,
+        "name": "化学 地球化学方向",
+        "context": "This major aims to cultivate innovative leaders in geochemistry with a solid foundation in mathematics, physics, chemistry, and biology, comprehensive knowledge of geology, and critical thinking skills and independent thinking abilities. The main goal of the School of Earth and Space Sciences at Peking University is to train future talents for top scientific research institutions and universities, while also cultivating applied talents in fields related to national major needs, including resources, environment, and disasters.",
+        "ann": [
+            642,
+            643,
+            644,
+            614,
+            70,
+            639
+        ],
+        "zh_context": "本专业着眼于培养具有扎实的数理化生基础、具备完善的地质学知识体系、具有批判 性思维和独立思考能力的创新型地球化学领军人才。以培养未来服务于科研机构和大学的 北京大学地球与空间科学学院从事顶尖基础科学研究的人才为主要目标,并兼顾培育未来服务于国家重大需求,涉及资 源、环境、灾害等相关领域的应用型人才。 "
+    },
+    {
+        "id": 101,
+        "name": "物理学 地球物理方向",
+        "context": "This major focuses on cultivating college students with solid foundations in mathematics and physics, and understanding and mastering the basic knowledge of modern geophysics. The characteristics of this discipline determine that graduates not only have strong scientific research abilities, but also can adapt to the needs of various aspects of modern society and can become a new generation of scientific and technological management talents. Most graduates of this major go on to pursue postgraduate studies both domestically and internationally. The rest mainly work in research institutions, higher education institutions, energy and resources, aerospace and communication, and government departments, engaging in scientific research, teaching, and senior management positions.",
+        "ann": [
+            616,
+            622,
+            623
+        ],
+        "zh_context": "本专业注重培养大学生具备坚实的数学、物理基础,了解并掌握现代地球物理的基础 知识。本学科的特点决定了毕业学生不仅具有很强的从事科学研究的能力,而且能适应现 代社会多方面工作的需要,能够成为一代新型的科技与管理人才。本专业毕业生大部分考 取国内外研究生外,其余的主要到科研机构、高等院校、能源与资源、航天与通讯和国家 机关等部门从事科研、教学和高级管理工作。 "
+    },
+    {
+        "id": 102,
+        "name": "空间科学与技术专业",
+        "context": "This major focuses on cultivating college students who have a solid foundation in mathematics and physics, and understand and master the basic knowledge of space science and technology. The disciplinary characteristics of the Space Science and Technology major determine that the graduates not only have the ability to engage in research in space science and technology, but also can adapt to the needs of various aspects of modern society and become a new generation of science and technology and management talents. In addition to the majority of graduates continuing to pursue postgraduate studies at home and abroad, the rest mainly choose to work in research institutions, higher education institutions, energy and resources, aerospace and communications, and government departments to engage in scientific research, teaching, and management.",
+        "ann": [
+            71,
+            624,
+            625,
+            626,
+            627,
+            635,
+            637,
+            638
+        ],
+        "zh_context": "本专业注重培养大学生具备坚实的数学、物理基础,了解并掌握现在空间科学与技术 的基础知识。空间科学与技术专业的学科特点决定了本专业毕业的学生不仅具有很强的从 事空间科学与技术研究的能力,而且能适应现代社会多方面工作的需要,能够成为一代新 型的科技与管理人才。 本专业毕业生除大部分继续攻读国内外研究生外,其余的主要志愿到科研机构、高等 院校、能源与资源、航天与通信和国家机关等部门从事科研、教学和管理工作。 "
+    },
+    {
+        "id": 103,
+        "name": "心理学专业",
+        "context": "Psychology is the science that studies individual behavior and mental processes. The College of Psychology and Cognitive Science focuses on developing students' fundamental research abilities and training them in the application of basic psychological principles and experimental research methods to describe, explain, predict, and control behavior and mental processes. Through various forms of cooperation, such as intercollegiate exchanges and joint training with top universities and psychology departments worldwide, we strive to integrate our students with the forefront of international academic research. In fields such as cognitive neuroscience, developmental psychology, clinical psychology, and organizational psychology, we aim to cultivate basic research leaders who possess an innovative mindset, a sense of responsibility, and a spirit of collaboration.",
+        "ann": [
+            646,
+            72,
+            649,
+            650,
+            651,
+            652,
+            653,
+            654,
+            655,
+            656,
+            312
+        ],
+        "zh_context": "心理学是研究个体行为及精神过程的科学。心理与认知科学学院注重培养学生的基础 科研能力,训练学生运用心理学的基本科学原理和实验研究方法,描述、解释、预测、控 制行为和精神过程;通过与国际一流大学、一流心理学专业的校际交流和联合培养等多种 合作形式,促进学生与国际学术前沿的接轨。在认知神经科学、发展心理学、临床心理 学、组织心理学等领域中,培养具有 “创新意识、责任意识、合作意识”的基础研究领军 人才。"
+    },
+    {
+        "id": 104,
+        "name": "应用心理学专业",
+        "context": "Psychology is a science that emphasizes the integration of scientific principles and applied practices. It has extensive applications in various fields in China, including social and economic management in the context of economic development, cultural exchange, personal growth, mental health, defense, and sports. The College of Psychology and Cognitive Sciences focuses on developing students' professional competence in psychology, necessary for certain specific professions, as well as their research skills in applying psychological theories and techniques to solve problems in their respective fields. The college aims to cultivate leaders in the application of psychology who are skilled in problem identification, analysis, and resolution.",
+        "ann": [
+            646,
+            72,
+            649,
+            650,
+            651,
+            652,
+            653,
+            654,
+            655,
+            656,
+            312
+        ],
+        "zh_context": "心理学是一门强调科学原理与应用实践相结合的科学,在我国经济建设的社会管理、 经济管理、文化交流、身心发展、心理健康、国防和体育等领域有广泛的应用价值。心理 与认知科学学院注重培养学生从事某一特定职业所必需的心理学专业能力,以及将心理学 理论和技术应用于解决该领域问题的研究能力;培养 “发现问题、分析问题、解决问题” 的心理学应用的领军人才。"
+    },
+    {
+        "id": 105,
+        "name": "计算机科学与技术专业",
+        "context": "To cultivate students into talents leading the future with a spirit of innovation and integrity, with an international perspective and a sense of patriotism and dedication, and with characteristics of solid foundation, interdisciplinary knowledge, a spirit of exploration and innovation, the ability to lead the development and innovation of computer science and technology in fields such as computer system architecture, computer software and theory, computer application technology, and artificial intelligence. Through a combination of general education and specialized education, students are equipped with solid knowledge in mathematics, physics, computer science, intelligence, electronics, and other computer hardware and software. They systematically master the theory and methods of computer science, receive training in scientific thinking and scientific research practices, possess the ability to explore, discover, analyze, and solve problems, and have the ability to continuously update their knowledge and innovate, laying a solid foundation for leading the development of computer science and technology. Students also have the correct values and outlook on life, possess good humanistic and scientific literacy, have the ability to think independently, read, write, express themselves, and have an international perspective.",
+        "ann": [
+            706,
+            680,
+            682,
+            683,
+            684,
+            109,
+            720,
+            657,
+            658,
+            659,
+            660,
+            661,
+            55
+        ],
+        "zh_context": "培养学生成为具有 “引领未来、守正创新”的精神,具有国际视野和爱国敬业意识, 具有 “基础厚实、理工交叉、乐于探究、勇于创新”特点,能够成为新一代计算机系统结 构、计算机软件和理论、计算机应用技术和人工智能等领域引领计算机科学与技术学科发 展创新的领军人才。 通过通识与专业相结合的教育,使学生具备坚实的数学、物理、计算机、智能、电子 等计算机软硬件基础知识,系统地掌握计算机科学的理论和方法,受到良好的科学思维与 科学实践研究的训练,具有探索、发现、分析和解决问题的能力,以及知识自我更新和不 断创新的能力,为引领计算机科学与技术发展奠定基础。培养的学生具有正确的人生观和 价值观,具有良好的人文和科学素养,具有独立思考、阅读、写作、表达等能力和国际化 视野。 "
+    },
+    {
+        "id": 106,
+        "name": "计算机科学与技术专业 图灵班",
+        "context": "Cultivating students to become individuals with the spirit of \"leading the future and adhering to innovation\", possessing an international perspective and a sense of patriotism and dedication, and exhibiting characteristics of being \"solid in foundation, interdisciplinary in science and engineering, eager to explore, and courageous in innovation\". They should be able to become leading talents in the development of computer science and technology disciplines, such as computer software and theory, computer system architecture, computer applications, and artificial intelligence. Through a combination of general education and specialized training, students will acquire a solid foundation in mathematics, physics, computer science, intelligence, electronics, and other computer hardware and software knowledge. They will systematically master the theory and methodology of computer science, receive training in scientific thinking and scientific research practices, possess the abilities to explore, discover, analyze, and solve problems, as well as the ability to continuously update their knowledge and innovate, laying a foundation for leading the development of computer science and technology. Students will have correct life values and worldviews, possess good humanistic and scientific literacy, independent thinking, reading, writing, expression abilities, and an international perspective. The establishment of the \"Turing Class\" aims to create a computer undergraduate education program with distinctive characteristics of Peking University, establish a demonstration system for curriculum teaching and research training, comprehensively enhance the level of education and talent cultivation in computer science and artificial intelligence disciplines at Peking University, and cultivate future leading talents in the computer field for the country.",
+        "ann": [
+            706,
+            679,
+            680,
+            73,
+            682,
+            683,
+            684,
+            109,
+            720,
+            657,
+            658,
+            660,
+            661
+        ],
+        "zh_context": "培养学生成为具有 “引领未来、守正创新”的精神,具有国际视野和爱国敬业意识, 具有 “基础厚实、理工交叉、乐于探究、勇于创新”特点,能够成为新一代计算机软件和 理论、计算机系统结构、计算机应用和人工智能等领域引领计算机科学与技术学科发展创 新的领军人才。 通过通识与专业相结合的教育,使学生具备坚实的数学、物理、计算机、智能、电子 等计算机软硬件基础知识,系统地掌握计算机科学的理论和方法,受到良好的科学思维与 科学实践研究的训练,具有探索、发现、分析和解决问题的能力,以及知识自我更新和不 断创新的能力,为引领计算机科学与技术发展奠定基础。培养的学生具有正确的人生观和 价值观,具有良好的人文和科学素养,具有独立思考、阅读、写作、表达等能力和国际化 视野。 “图灵班”的设立旨在打造深具北大特色的计算机类本科生培养计划,建立课程教学 与科研培养的示范体系,全面提升北京大学计算机和人工智能学科的教育与人才培养水 平,为国家培养计算机领域未来的领军人才。"
+    },
+    {
+        "id": 107,
+        "name": "信息与计算科学 图灵班",
+        "context": "To cultivate students with the spirit of \"leading the future and upholding innovation\", an international perspective, and a sense of patriotism and dedication, with the characteristics of \"solid foundation, interdisciplinary knowledge, eagerness to explore, and courage to innovate\", who can become the leading talents in the development and innovation of data science and big data technology in fields such as big data systems and technology, computer software and theory, computer systems architecture, computer applications, and artificial intelligence. Through a combination of general education and specialized education, students are equipped with solid knowledge in mathematics, computer science, data science, and artificial intelligence, and systematically master the theories and methods of data science and big data technology. They receive training in scientific thinking and scientific practice research, and possess the ability to explore, discover, analyze, and solve problems, as well as the ability to continuously update knowledge and innovate, laying a foundation for leading the development of data science and big data technology. The cultivated students have the correct outlook on life and values, possess a good humanistic and scientific literacy, and have the abilities of independent thinking, reading, writing, and expression, as well as an international perspective.",
+        "ann": [
+            657,
+            658
+        ],
+        "zh_context": "培养学生成为具有 “引领未来、守正创新”的精神,具有国际视野和爱国敬业意识, 具有 “基础厚实、理工交叉、乐于探究、勇于创新”特点,能够成为新一代大数据系统与 技术、计算机软件和理论、计算机系统结构、计算机应用和人工智能等领域引领数据科学 与大数据技术发展创新的领军人才。 通过通识与专业相结合的教育,使学生具备坚实的数学、计算机、数据科学、人工智 能等计算机软硬件基础知识,系统地掌握数据科学和大数据技术的理论和方法,受到良好 的科学思维与科学实践研究的训练,具有探索、发现、分析和解决问题的能力,以及知识 自我更新和不断创新的能力,为引领数据科学与大数据技术发展奠定基础。培养的学生具 有正确的人生观和价值观,具有良好的人文和科学素养,具有独立思考、阅读、写作、表 达等能力和国际化视野。"
+    },
+    {
+        "id": 108,
+        "name": "软件工程专业",
+        "context": "Cultivate students to have the spirit of \"leading the future and adhering to innovation\", possess international perspective and patriotic dedication, and have the characteristics of \"solid foundation, interdisciplinary in science and engineering, eager to explore, and fearless in innovation\". Enable them to become leading talents in the field of software science and engineering, including computer software and theory, system software, software development methods, software applications, and artificial intelligence, driving the development and innovation of the discipline. Through the combination of general education and specialized education, students are equipped with solid knowledge in mathematics, physics, computer science, and intelligence. They systematically master the theories and methodologies of software science and engineering, receive training in scientific thinking and scientific practice research, and possess the ability to explore, discover, analyze, and solve problems, as well as the ability to update knowledge and constantly innovate, laying a foundation for leading the development of software science and engineering. Students cultivated in this way have correct life outlook and values, possess good humanistic and scientific literacy, have the ability of independent thinking, reading, writing, and expression, and possess an international perspective.",
+        "ann": [
+            680,
+            74,
+            683,
+            684,
+            109,
+            75,
+            687,
+            720,
+            657,
+            658,
+            685,
+            660,
+            661,
+            659,
+            55
+        ],
+        "zh_context": "培养学生成为具有 “引领未来、守正创新”的精神,具有国际视野和爱国敬业意识, 具有 “基础厚实、理工交叉、乐于探究、勇于创新”特点,能够成为新一代计算机软件和 理论、系统软件、软件开发方法、软件应用和人工智能等领域引领软件科学与工程学科发 展创新的领军人才。 通过通识与专业相结合的教育,使学生具备坚实的数学、物理、计算机、智能等计算 机软硬件基础知识,系统地掌握软件科学和工程的理论和方法,受到良好的科学思维与科 学实践研究的训练,具有探索、发现、分析和解决问题的能力,以及知识自我更新和不断 创新的能力,为引领软件科学与工程发展奠定基础。培养的学生具有正确的人生观和价值 观,具有良好的人文和科学素养,具有独立思考、阅读、写作、表达等能力和国际化 视野。"
+    },
+    {
+        "id": 109,
+        "name": "智能科学与技术专业 图灵班",
+        "context": "The training objectives of this major are as follows: graduates have the spirit of \"leading the future and adhering to innovation\", possess international perspectives and patriotic dedication, demonstrate the characteristics of \"solid foundation, cross-disciplinary knowledge, good at exploration, and courageous innovation\", and can become leading talents in the development of intelligent science and technology in the field of artificial intelligence. Through the integration of general education and specialized education, students are equipped with solid knowledge in mathematics, physics, computer science, intelligent systems, electronics, and other foundational subjects. They systematically master the theories and methods of intelligent science and technology, receive training in scientific thinking and scientific practice research, possess the ability to explore, discover, analyze and solve problems, as well as the ability to continuously update knowledge and innovate, laying a foundation for leading the development of intelligent science and technology. The students being nurtured possess correct values and views on life, possess good humanistic and scientific literacy, possess independent thinking, reading, writing, and expression abilities, as well as an international perspective.",
+        "ann": [
+            675,
+            73,
+            683,
+            76,
+            684,
+            109,
+            529,
+            658,
+            657,
+            660,
+            309,
+            661
+        ],
+        "zh_context": "本专业的培养目标为:毕业生具有 “引领未来、守正创新”的精神,具有国际视野和 爱国敬业意识,具有 “基础扎实、学科交叉、善于探究、勇于创新”特点,能够成为新一 代人工智能领域引领智能科学与技术发展创新的领军人才。 通过通识与专业相结合的教育,使学生具备坚实的数学、物理、计算机、智能、电子 等基础知识,系统地掌握智能科学与技术的理论和方法,受到良好的科学思维与科学实践 研究的训练,具有探索、发现、分析和解决问题的能力,以及知识自我更新和不断创新的 能力,为引领智能科学与技术发展奠定基础。培养的学生具有正确的人生观和价值观,具 有良好的人文和科学素养,具有独立思考、阅读、写作、表达等能力和国际化视野。"
+    },
+    {
+        "id": 110,
+        "name": "智能科学与技术专业",
+        "context": "The cultivation objectives of this major are as follows: Graduates should possess the spirit of \"leading the future, adhering to tradition and innovating\", an international perspective, and a sense of patriotism and dedication. They should have the characteristics of \"solid foundation, interdisciplinary knowledge, good at exploration, and courageous innovation\", and be able to become leading talents in the field of artificial intelligence, leading the development and innovation of intelligent science and technology. Through the combination of general education and specialized education, students are equipped with solid knowledge of mathematics, physics, computer science, intelligence, electronics, and other basic disciplines. They will systematically master the theories and methods of intelligent science and technology, receive training in scientific thinking and scientific practice research, and possess the ability to explore, discover, analyze, and solve problems, as well as the ability to update knowledge and innovate continuously, laying a foundation for leading the development of intelligent science and technology. The cultivated students should have correct life values and values, possess good humanistic and scientific literacy, possess the ability of independent thinking, reading, writing, and expression, and have an international perspective.",
+        "ann": [
+            529,
+            658,
+            659,
+            660,
+            661,
+            683,
+            684,
+            689,
+            309,
+            711,
+            712,
+            713,
+            715,
+            716,
+            76,
+            717,
+            719,
+            720,
+            109
+        ],
+        "zh_context": "本专业的培养目标为:毕业生具有 “引领未来、守正创新”的精神,具有国际视野和 爱国敬业意识,具有 “基础扎实、学科交叉、善于探究、勇于创新”特点,能够成为新一 代人工智能领域引领智能科学与技术发展创新的领军人才。 通过通识与专业相结合的教育,使学生具备坚实的数学、物理、计算机、智能、电子 等基础知识,系统地掌握智能科学与技术的理论和方法,受到良好的科学思维与科学实践 研究的训练,具有探索、发现、分析和解决问题的能力,以及知识自我更新和不断创新的 能力,为引领智能科学与技术发展奠定基础。培养的学生具有正确的人生观和价值观,具 有良好的人文和科学素养,具有独立思考、阅读、写作、表达等能力和国际化视野。"
+    },
+    {
+        "id": 111,
+        "name": "信息与计算科学专业 图灵班",
+        "context": "本专业本科毕业生可在科研机构、高等院校、企业事业单位从事信息与计算科学领域的研究、教学、开发、管理工作;也可继续攻读计算机科学与技术、软件工程、智能科学与技术和其他相关学科的研究生学位。具体要求包括以下各个方面:\n\nGraduates in this major can work in research institutions, higher education institutions, and business organizations in the field of information and computational science, engaging in research, teaching, development, and management. They can also pursue postgraduate degrees in Computer Science and Technology, Software Engineering, Intelligent Science and Technology, and other related disciplines. Specific requirements include the following aspects:",
+        "ann": [
+            706,
+            679,
+            680,
+            73,
+            682,
+            683,
+            684,
+            109,
+            720,
+            660,
+            661
+        ],
+        "zh_context": "本专业本科毕业生可在科研机构、高等院校、企业事业单位从事信息与计算科学领域 的研究、教学、开发、管理工作;也可继续攻读计算机科学与技术、软件工程、智能科学 与技术和其他相关学科的研究生学位。具体要求包括以下各个方面:"
+    },
+    {
+        "id": 112,
+        "name": "集成电路设计与集成系统专业",
+        "context": "Integrated Circuit Design and Integrated Systems mainly study the technologies involved in modern information technology hardware and software systems, including integrated circuit chip design, Electronic Design Automation (EDA), computer hardware-software co-design, intelligent computing systems and architectures, and intelligent sensor systems. Through a combination of general and specialized education, students are equipped with solid knowledge in mathematics, physics, electronics, computer science, and intelligent science, covering digital/analog integrated circuit design, EDA technologies, hardware-software co-design, artificial intelligence, microprocessors, and computer architecture. With the support of advanced industry-education integration laboratory practice, students comprehensively master the theories and methods of microelectronics and integrated circuit disciplines, receive training in scientific thinking and scientific practice, and develop the ability to explore, discover, analyze, and solve problems, as well as the ability to constantly update knowledge and innovate, laying a foundation for leading the development of the microelectronics and integrated circuit disciplines. The program aims to cultivate students with correct life perspectives and values, sound humanistic and scientific literacy, independent thinking, reading, writing, and expression abilities, and an international perspective.",
+        "ann": [
+            701,
+            714,
+            683,
+            702,
+            684,
+            696,
+            671,
+            664,
+            697,
+            669,
+            670,
+            703
+        ],
+        "zh_context": "集成电路设计与集成系统主要研究现代信息技术软硬件系统中涉及的集成电路芯片设 计、设计自动化 (EDA)、计算机软硬件协同设计、智能计算系统与体系架构、智能传感 器系统等技术。通过通识与专业相结合的教育,使学生具备坚实的数学、物理、电子、计 算机、智能科学等信息处理的基础知识,涵盖数字/模拟集成电路设计、EDA技术、软硬 件协同设计、人工智能、微处理器与计算机体系结构等,配合先进的产教融合实验实践训 练,系统地掌握微电子与集成电路学科的理论和方法,受到良好的科学思维与科学实践研 究的训练,具有探索、发现、分析和解决问题的能力,以及知识自我更新和不断创新的能 力,为引领微电子与集成电路学科发展奠定基础。培养的学生具有正确的人生观和价值 观,具有良好的人文和科学素养,具有独立思考、阅读、写作、表达等能力和国际化 视野。"
+    },
+    {
+        "id": 113,
+        "name": "微电子科学与工程专业",
+        "context": "The major of Microelectronics Science and Engineering mainly focuses on advanced micro-nano devices and manufacturing technology, micro-nano sensor technology, novel computing devices and architecture design, and other related scientific and technological fields. Through a combination of general education and specialized training, students will have a solid foundation in mathematics, physics, electronics, computer science, and intelligent science, covering areas such as electronic technology, integrated circuit devices, integrated circuit design and design automation (EDA), micro-nano mechanical systems, advanced electronic materials, novel information devices, and future computing. With advanced industry-education integration laboratory practice, students will systematically grasp the theories and methods of microelectronics and integrated circuit disciplines, receive training in scientific thinking and scientific practice research, and acquire the ability to explore, discover, analyze, and solve problems, as well as the ability to update knowledge and innovate continuously, laying a foundation for leading the development of microelectronics and integrated circuit disciplines. The program aims to cultivate students with correct outlook on life and values, good humanistic and scientific literacy, independent thinking, reading, writing, and communication skills, and an international perspective.",
+        "ann": [
+            707,
+            696,
+            664,
+            697,
+            666,
+            699,
+            700,
+            698,
+            671
+        ],
+        "zh_context": "微电子科学与工程专业主要研究先进微纳器件和制造技术、微纳传感器技术、新型计 算器件和架构设计等相关科学技术。通过通识与专业相结合的教育,使学生具备坚实的数 学、物理、电子、计算机、智能科学等信息处理的基础知识,涵盖电子技术、集成电路器 件、集成电路设计与设计自动化 (EDA)、微纳机械系统、先进电子材料、新型信息器件 与未来计算等内容,配合先进的产教融合实验实践训练,系统地掌握微电子与集成电路学 科的理论和方法,受到良好的科学思维与科学实践研究的训练,具有探索、发现、分析和 解决问题的能力,以及知识自我更新和不断创新的能力,为引领微电子与集成电路学科发 展奠定基础。培养的学生具有正确的人生观和价值观,具有良好的人文和科学素养,具有 独立思考、阅读、写作、表达等能力和国际化视野。 "
+    },
+    {
+        "id": 114,
+        "name": "电子信息科学与技术专业",
+        "context": "The cultivation objectives of this major are as follows: Graduates possess the spirit of \"leading the future, being innovative while staying true,\" possess an international perspective and a sense of patriotism and dedication, and have the characteristics of \"solid foundation, interdisciplinary, eager to explore, and courageous innovation.\" They can become leading talents in the development and innovation of electronic device circuits and systems, optoelectronic technology, microwave and electromagnetic fields, quantum information technology, terahertz technology, and other fields of electronic information science and technology. Through a combination of general education and professional education, students are equipped with solid knowledge in mathematics, physics, electronics, computer science, and intelligent science, and systematically grasp the theories and methods of electronic and information science. They receive training in scientific thinking and scientific practice research, possess the ability to explore, discover, analyze, and solve problems, as well as the ability to renew knowledge and continuously innovate, laying a foundation for leading the development of electronic information science and technology. The cultivated students have correct outlooks on life and values, possess good humanistic and scientific literacy, have the ability for independent thinking, reading, writing, expression, and have an international perspective.",
+        "ann": [
+            672,
+            461,
+            529,
+            690,
+            466,
+            692,
+            467,
+            695
+        ],
+        "zh_context": "本专业的培养目标为:毕业生具有 “引领未来、守正创新”的精神,具有国际视野和 爱国敬业意识,具有 “基础厚实、理工交叉、乐于探究、勇于创新”特点,能够成为新一 代电子器件电路与系统、光电子技术、微波与电磁场、量子信息技术、太赫兹技术等领域 引领电子信息科学与技术学科发展创新的领军人才。 通过通识与专业相结合的教育,使学生具备坚实的数学、物理、电子、计算机、智能 科学等信息处理的基础知识,系统地掌握电子和信息科学的理论和方法,受到良好的科学 思维与科学实践研究的训练,具有探索、发现、分析和解决问题的能力,以及知识自我更 新和不断创新的能力,为引领电子信息科学与技术发展奠定基础。培养的学生具有正确的 人生观和价值观,具有良好的人文和科学素养,具有独立思考、阅读、写作、表达等能力 和国际化视野。"
+    },
+    {
+        "id": 115,
+        "name": "电子信息工程专业",
+        "context": "The training objectives of this major are: graduates are equipped with the spirit of \"leading the future and maintaining innovation\", with an international perspective and a sense of patriotism and dedication. They possess the characteristics of \"solid foundation, interdisciplinary knowledge, willingness to explore, and courage to innovate\". They are capable of conducting cutting-edge research, application development, and innovative management in the fields of electronic information, optoelectronic technology, signal processing, computer engineering, communication systems, intelligent manufacturing, financial information, smart Internet of Things, and artificial intelligence. They have strong systematic thinking skills and a sense of leading innovation in the field of electronic information and lay a solid foundation for becoming leading talents in the future of the electronic information field. Graduates can work in research institutions, universities, and enterprises engaged in research, teaching, development, and management in the field of electronic information. They can also continue to pursue postgraduate degrees in Information and Communication Engineering, Electronic Science and Technology, Computer Science and Engineering, Intelligent Science and Technology, and other related disciplines.",
+        "ann": [
+            672,
+            676,
+            77,
+            688,
+            529,
+            690,
+            466,
+            692,
+            694
+        ],
+        "zh_context": "本专业的培养目标为:毕业生具有 “引领未来、守正创新”的精神,具有国际视野和 爱国敬业精神,具有 “基础厚实、理工交叉、乐于探究、勇于创新”特点,在电子信息、 光电子技术、信号处理、计算机工程、通信系统、智能制造、金融信息、智能物联网和人 工智能等行业从事电子信息工程领域相关的信息获取、传输和处理方面的前沿研究、应用 开发和创新管理工作,拥有电子信息前沿研究和应用开发的系统思维能力和引领创新意 识,为成为未来电子信息领域的复合型领军人才打下牢固基础。毕业生可在科研机构、高 等院校、企业事业单位从事电子信息领域的研究、教学、开发、管理工作;也可继续攻读 信息与通信工程、电子科学技术、计算机科学与工程、智能科学技术和其他相关学科的研 究生学位。"
+    },
+    {
+        "id": 116,
+        "name": "应用物理学专业",
+        "context": "Through the combination of general education and specialized education, students are equipped with a solid foundation of knowledge in mathematics, physics, electronics, computer science, and intelligent science. This includes modern electronic technology, advanced electronic materials, micro-nano electronic devices, integrated circuit design, micro-nano mechanical systems, novel information devices, and future computing, quantum technology, etc. In addition, advanced industry-education integration experimental practice training is provided to systematically master the theory and methods of micro-nano electronic devices and integrated circuits, and quantum technology. Students are trained in scientific thinking and scientific practice research, developing abilities to explore, discover, analyze, and solve problems, as well as the ability to continually update knowledge and innovate. This lays a foundation for leading the future development of micro-nano electronic science and technology and quantum technology. During the training process, students are encouraged to actively participate in scientific research. They can choose to enter the Department of Electronics and the Department of Micro-Nano Electronics to carry out undergraduate research training activities. Through a variety of academic activities such as interdisciplinary competitions, international internships, and peak practical activities, students can explore their interests in the field and develop their academic innovation abilities.",
+        "ann": [
+            707,
+            461,
+            78,
+            463,
+            462,
+            79,
+            466,
+            467,
+            697,
+            666
+        ],
+        "zh_context": "通过通识与专业相结合的教育,使学生具备坚实的数学、物理、电子、计算机、智能 科学等基础知识,涵盖现代电子技术、先进电子材料、微纳电子器件、集成电路设计、微 纳机械系统、新型信息器件与未来计算、量子技术等内容,配合先进的产教融合实验实践 训练,系统地掌握微纳电子器件与集成电路、量子技术的理论和方法,受到良好的科学思 维与科学实践研究的训练,具有探索、发现、分析和解决问题的能力,以及知识自我更新 和不断创新的能力,为引领微纳电子科学与技术、量子技术的未来发展打下基础。培养过 程中鼓励学生积极参加科学研究,学生可以选择进入电子学系和微纳电子学系开展本科科 研训练活动,并可以通过丰富多彩的学科竞赛、国际实习和顶点实践等本科学术活动,结 合学科前沿,探索学科兴趣,锻炼学术创新能力"
+    },
+    {
+        "id": 117,
+        "name": "智能科学与技术专业 智班",
+        "context": "Intelligent Science and Technology is a foundational discipline that investigates the mechanisms of natural intelligence and the theories, methodologies, technologies, and applications of artificial intelligence. It is the core force driving human society from the era of informatization to the era of intelligence. This discipline is an emerging interdisciplinary field based on computer science and technology, mathematics, physics, psychology, philosophy, and cognitive science. Its main research areas include computer vision, natural language processing, multimodal learning, machine learning, multi-agent systems, cognition and reasoning, robotics, visual simulation, neuromorphic intelligence, data intelligence analysis, and intelligent computing. With the increasing trend of intelligence driving transformation in various industries, artificial intelligence has become a key strategic field for competition among major countries, and the development of the discipline of Intelligent Science and Technology is progressing rapidly and thriving.",
+        "ann": [
+            711,
+            712,
+            713,
+            715,
+            716,
+            717,
+            718,
+            719,
+            720
+        ],
+        "zh_context": "智能科学与技术是研究自然智能形成机理与人工智能实现理论、方法、技术和应用的 基础学科,是推动人类社会从信息化时代迈向智能化时代的核心力量。本学科是在计算机 科学与技术、数学、物理、心理学、哲学和认知科学等基础上发展起来的一门以多学科交 叉为特色的新兴学科。主要研究领域包括计算机视觉、自然语言处理、多模态学习、机器 学习、多智能体、认知与推理、机器人学、可视模拟、类脑智能、数据智能分析与智能计 算等。随着近年来智能化成为各行各业的引领变革趋势,人工智能亦成为大国竞争的关键 战略领域,智能科学与技术学科的发展日新月异、方兴未艾。 "
+    },
+    {
+        "id": 118,
+        "name": "理论与应用力学专业",
+        "context": "This major aims to cultivate advanced specialized talents who have a solid grasp of the fundamental theories, knowledge, and skills of mechanics, possess a strong foundation in mathematics and science literacy, are trained in scientific research and engineering technology applications, and are able to utilize theoretical analysis, experimental research, and numerical simulation to solve problems. Graduates can engage in scientific research and teaching in mechanics and related disciplines, pursue further study for a postgraduate degree in mechanics and related interdisciplinary fields, or work in engineering technology or management departments for applied research, technological development, or management positions.",
+        "ann": [
+            461,
+            462,
+            80,
+            721,
+            722,
+            723,
+            724,
+            725,
+            726
+        ],
+        "zh_context": "本专业培养掌握力学的基本理论、知识和技能,具有良好的数理基础和科学素养,受 到科学研究和工程技术应用的训练,能运用理论分析、实验研究和数值模拟等手段解决问 题的高级专门人才。毕业生能在力学及相关学科从事科学研究和教学工作,能继续攻读力 学及相关交叉学科的研究生学位,也可以到工程技术或管理部门从事应用研究、技术开发 或管理工作。"
+    },
+    {
+        "id": 119,
+        "name": "工程力学专业 工程结构分析方向",
+        "context": "This major focuses on cultivating students' ability to study and solve engineering and scientific problems using mathematical and mechanical theories combined with computer analysis methods, as well as their ability to design and develop engineering application software. The goal is to train students to become professionals who are proficient in advanced computational theories and methods, engineering software development, and have the knowledge to apply these skills to solve practical engineering problems. After graduation, students can continue their further studies in the field of mechanics and related interdisciplinary subjects, or they can enter engineering design departments, research institutions, large enterprises, government agencies, etc., to engage in research, development, and management work.",
+        "ann": [
+            462,
+            80,
+            721,
+            722,
+            723,
+            81,
+            727,
+            728,
+            730,
+            731
+        ],
+        "zh_context": "本专业着重培养学生用数学、力学基本理论结合计算机分析手段研究和解决工程与科 学问题的能力,以及工程应用软件的设计与开发能力,使学生成为掌握当代先进计算理论 和方法、工程软件开发,并应用这些知识解决工程实际问题的人才。学生毕业后可在力学 及相关交叉学科领域继续深造,也可进入工程设计部门、研究机构、大型企业、政府机关 等从事研究、开发和管理工作。"
+    },
+    {
+        "id": 120,
+        "name": "航空航天工程专业",
+        "context": "This major aims to cultivate highly qualified talents in the field of aerospace engineering with solid theoretical foundation, broad professional knowledge, strong comprehensive ability, and innovative consciousness. Graduates can directly enter scientific research institutes and engineering units in the aerospace field, or continue further study in related fields such as aerospace science and technology and mechanics.",
+        "ann": [
+            736,
+            737,
+            738,
+            739,
+            740,
+            462,
+            721,
+            722,
+            723,
+            728,
+            734
+        ],
+        "zh_context": "本专业培养具有坚实的理论基础、广博的专业知识、良好的综合能力和富有创新意 识,具有很强动手能力的航空航天领域高素质人才。毕业生可直接进入航空航天领域的科 研院所和工程单位工作,也可在航空航天科学与技术、力学等相关专业继续深造。 "
+    },
+    {
+        "id": 121,
+        "name": "机器人工程专业",
+        "context": "This major focuses on cultivating students' systematic mastery of the basic theories, specialized knowledge, and basic skills in the forefront disciplines of automation engineering, mechanical engineering, and artificial intelligence. The key areas of expertise include intelligent robots, control system design, programming, and integrated application technologies. The program aims to develop students' abilities to engage in the design, manufacturing, scientific research, and engineering application of intelligent robot systems, with a strong sense of social responsibility, innovative spirit, practical skills, and broad international perspective. Graduates of this major should possess the basic qualities to further engage in scientific research in related fields, and they can also enter research institutions, large enterprises, government agencies, and other organizations to engage in applied research, technological development, or management work.",
+        "ann": [
+            737,
+            749,
+            462,
+            529,
+            82,
+            723,
+            756,
+            757,
+            755,
+            754
+        ],
+        "zh_context": "本专业着重培养学生系统掌握自动化工程、机械工程、人工智能等学科前沿的基础理 论、专门知识和基本技能,重点掌握智能机器人、控制系统的设计、编程和集成应用技 术,具有从事智能机器人系统的设计制造、科技开发及工程应用等方面的工作能力,培养 具有高度社会责任感、富有创新精神和实践能力、国际视野开阔的机器人领域领军人才。 本专业毕业生应具有在相关领域进一步做科学研究的基本素质,也可进入研究机构、大型 企业、政府机关等从事应用研究、技术开发或管理工作。 "
+    },
+    {
+        "id": 122,
+        "name": "力学类专业强基计划",
+        "context": "This major cultivates advanced specialists who have a solid understanding of the basic theories, knowledge, and skills in mechanics, as well as a strong foundation in mathematics and scientific literacy. Students receive training in systematic scientific research and engineering technology applications, and are capable of using theoretical analysis, experimental research, and numerical simulation to solve problems. Graduates can work in the fields of mechanics and related disciplines such as aerospace engineering, energy and resources engineering, biomedical engineering, materials science and engineering, and robotics. They are capable of engaging in scientific research and teaching, pursuing further studies in mechanics and related interdisciplinary fields, or working in engineering technology or management departments for applied research, technological development, or management positions.",
+        "ann": [
+            452,
+            454,
+            493,
+            462,
+            461,
+            721,
+            83,
+            84,
+            724,
+            85,
+            727,
+            728
+        ],
+        "zh_context": "本专业培养掌握力学的基本理论、基本知识和基本技能,具有良好的数理基础和科学 素养,受到系统科学研究和工程技术应用训练,能运用理论分析、实验研究和数值模拟等 手段解决问题的高级专门人才。毕业生能在力学及相关学科 (如航空与航天工程、能源与 资源工程、生物医学工程、材料科学与工程、机器人工程等)从事科学研究和教学工作, 能继续攻读力学及相关交叉学科的研究生学位,也可以到工程技术或管理部门从事应用研 究、技术开发或管理工作。"
+    },
+    {
+        "id": 123,
+        "name": "工程力学专业",
+        "context": "This major focuses on cultivating students' ability to combine basic theories of mathematics and mechanics with computer analysis methods to study and solve engineering and scientific problems. It also aims to develop students' skills in designing and developing engineering application software, so that they can become talents who are proficient in contemporary advanced computational theory and methods, skilled in engineering software development, and capable of applying this knowledge to solve practical engineering problems.",
+        "ann": [
+            729,
+            723,
+            721
+        ],
+        "zh_context": "本专业着重培养学生用数学、力学基本理论结合计算机分析手段研究和解决工程与科 学问题的能力,以及工程应用软件的设计与开发能力,使学生成为掌握当代先进计算理论 和方法、工程软件开发,并应用这些知识解决工程实际问题的人才。"
+    },
+    {
+        "id": 124,
+        "name": "能源与环境系统工程专业",
+        "context": "This major aims to cultivate students with a solid foundation in the basic theories of energy and environmental systems engineering, as well as a strong scientific literacy and engineering thinking. Graduates will be equipped with the skills to apply theoretical analysis, experimental research, and numerical simulation to solve advanced problems in energy and environmental systems engineering. They will be qualified for scientific research and teaching positions in related disciplines, and they can also pursue further studies in interdisciplinary fields related to energy and environmental systems engineering at the graduate level. Additionally, they can seek employment in engineering, technology, or management departments for applied research, technological development, or managerial positions.",
+        "ann": [
+            737,
+            746,
+            751,
+            498,
+            86,
+            87,
+            732,
+            733,
+            734,
+            735
+        ],
+        "zh_context": "本专业培养掌握能源与环境系统工程学科的基本理论,具有良好科学素养和工程思 维,能运用理论分析、实验研究和数值模拟等手段解决能源与环境系统工程问题的高水平 科技创新人才。毕业生可在能源与环境系统工程相关学科从事科学研究和教学工作,以及 继续攻读能源及环境系统工程相关交叉学科的研究生学位,也可以到工程技术或管理部门 从事应用研究、技术开发或管理工作。"
+    },
+    {
+        "id": 125,
+        "name": "材料科学与工程专业",
+        "context": "This major cultivates talents with professional knowledge related to materials science and engineering, who are capable of engaging in scientific research and technological innovation in relevant fields. After graduation, students can choose to continue their studies for a master's or doctoral degree in related fields, and then work in universities or research institutes for scientific research. They can also work in the field of engineering technology or management departments for product development or management.",
+        "ann": [
+            745,
+            746,
+            747,
+            748,
+            750,
+            498,
+            88,
+            89,
+            90
+        ],
+        "zh_context": "本专业培养具有材料科学与工程领域相关专业知识,能够从事相关领域的科学研究和 技术创新的新型工科应用型人才。学生毕业后,可以选择在相关领域继续攻读硕士和博士 学位,进而在大学或科研单位从事科学研究工作,也可以到工程技术领域或管理部门从事 产品研发或管理工作。"
+    },
+    {
+        "id": 126,
+        "name": "生物医学工程专业",
+        "context": "This major cultivates professionals who have solid theoretical foundation and professional knowledge in the field of biomedical engineering and related areas, and possess good comprehensive and innovative abilities. They receive interdisciplinary training in natural science, engineering science, biology, and medicine, and have a comprehensive cultural quality and an international perspective. They are able to use theoretical analysis, experimental research, numerical simulation and other means to solve complex problems. They are highly qualified and leading composite talents. Graduates can engage in scientific research and teaching in the field of biomedical engineering and related disciplines, continue to pursue a postgraduate degree in biomedical engineering and related interdisciplinary subjects, or work in engineering technology, consulting services, or management departments for applied research, technology development or management positions.",
+        "ann": [
+            737,
+            741,
+            742,
+            743,
+            744,
+            495,
+            752,
+            753
+        ],
+        "zh_context": "本专业培养掌握生物医学工程及相关领域扎实的理论基础和专业知识、具有良好的综 合能力和创新能力,受到自然科学、工程科学与生物和医学领域的跨学科训练,具备全面 的文化素质和国际化视野,能运用理论分析、实验研究和数值模拟等手段解决复杂问题的 高素质、引领性的复合型人才。毕业生能在生物医学工程及相关学科从事科学研究和教学 工作,能继续攻读生物医学工程及相关交叉学科的研究生学位,也可以到工程技术、咨询 服务或管理等部门从事应用研究、技术开发或管理工作。"
+    },
+    {
+        "id": 127,
+        "name": "环境工程专业",
+        "context": "This major aims to cultivate comprehensive development in morality, intelligence, and physical fitness. It provides a solid and extensive foundation in the theoretical knowledge of environmental engineering, integrates interdisciplinary knowledge, and equips students with basic methods and skills in environmental engineering design. Students will also gain an understanding of the progress and trends of environmental engineering both domestically and internationally. They will possess the ability to uncover and propose solutions to environmental issues, and become future leaders in the field of environmental engineering with Peking University characteristics.",
+        "ann": [
+            768,
+            555,
+            758,
+            759,
+            760,
+            761,
+            762,
+            763,
+            764,
+            765,
+            766,
+            767
+        ],
+        "zh_context": "本专业旨在培养德智体全面发展,具有坚实宽广的环境工程学科基础理论,综合集成 多学科知识,掌握环境工程设计的基本方法和技能,了解国内外环境工程的进展与动向,具备 揭示、提出解决环境问题的能力,具有北大特色的未来环境工程领域的复合型领军人才。 "
+    },
+    {
+        "id": 128,
+        "name": "环境科学专业 大数据方向",
+        "context": "This major aims to cultivate high-level composite talents in the field of environment who possess system analysis, critical thinking, and practical abilities, as well as a strong sense of social responsibility and the ability to integrate multiple sources of data to reveal the essence of environmental problems and propose solutions. The knowledge system of this major is based on the disciplines of environmental science and engineering, supported by mathematics and information science, and utilizes in-depth environmental data mining and environmental system simulation as tools. It integrates knowledge and methods from environmental science and information science, and cultivates students' basic abilities in proficient data analysis and mining, programming implementation, atmospheric, water and energy system simulation and applications, under the prerequisite of mastering the foundation of environmental science and engineering. Graduates can pursue careers in renowned universities or research institutions engaged in environmental management and decision-making related research, environmental consulting companies, government policy research institutions involved in environmental policy research and decision-making consulting, or pursue a doctoral degree at renowned domestic and international universities.",
+        "ann": [
+            769
+        ],
+        "zh_context": "本专业旨在培养具有系统分析能力、思辨能力和实践能力的环境领域高水平复合型领 军人才,具有高度社会责任感以及能够综合集成多源数据知识以揭示环境问题本质并提出 解决对策的能力。本方向的知识体系构成是以环境科学与工程的学科知识为基础、以数学 与信息科学的学科知识为支撑、以深度的环境数据挖掘和环境系统模拟为工具,将环境科 学与信息科学的知识与方法融合,培养学生在系统掌握环境科学与工程基础知识的前提 下,具有熟练的数据分析挖掘与编程实现、大气 水 能源系统模拟与应用等的基本能力, 毕业生的发展方向包括但不限于以下领域:著名大学或研究机构从事环境管理与决策的相 关研究工作;环境咨询企业;政府部门的政策研究机构,从事环境政策研究和决策咨询; 前往国内外著名大学攻读博士学位"
+    },
+    {
+        "id": 129,
+        "name": "化学专业 环境化学方向",
+        "context": "Emphasis is placed on the cultivation of fundamental theoretical knowledge and basic experimental methods in chemistry and environmental sciences, as well as the establishment of a strong foundation in mathematics and physics. Integration between the disciplines of environment and chemistry is also emphasized. Through four years of study, students will have a broad and solid understanding of chemistry and environmental sciences, grasp the basic approach and methods to comprehend the world through chemistry, possess the ability to acquire, analyze, extract, correlate, and integrate information, as well as autonomous learning skills and innovative consciousness. They will also have the basic scientific research literacy and the ability to solve environmental problems from an interdisciplinary perspective.",
+        "ann": [
+            498,
+            495
+        ],
+        "zh_context": "注重化学与环境基础理论知识和基本实验方法的培养,注重数学和物理基础的构建, 注重环境与化学学科的交叉融合。通过四年的学习,学生具有宽厚而扎实的化学与环境基 础知识,掌握化学认识世界的基本思路和方法,具有获取、分析、提炼、关联和整合信息 的能力,具备自主学习能力和创新意识,具备从事科学研究的基本素养,并拥有跨学科解 决环境问题的能力。 "
+    },
+    {
+        "id": 130,
+        "name": "古生物学专业",
+        "context": "1) Master the basic knowledge, fundamental theories, thinking methods, and research methods of paleontology, as well as related geology and biology.\n2) Possess strong interdisciplinary and critical thinking skills, innovative consciousness and practical abilities, and the ability for autonomous learning and self-development.\n3) Proficient in one foreign language, with international perspective and the ability to engage in cross-cultural communication, competition, and cooperation.\n4) Develop strong learning, expression, communication, and coordination abilities, and possess a spirit of teamwork.",
+        "ann": [
+            645,
+            614,
+            525,
+            526,
+            527,
+            528,
+            91,
+            509,
+            639
+        ],
+        "zh_context": "1)系统掌握古生物学专业及相关地质学、生物学的基础知识、基本理论、思维方式 和研究方法。 (2)具有较强的跨学科思维和批判性思维,具有创新意识和实践能力,具备自主学 习、自我发展的能力。 (3)熟练掌握一门外国语,具有国际视野和跨文化交流、竞争与合作能力。 (4)养成较强的学习、表达、交流和协调能力,具有团队合作精神。"
+    },
+    {
+        "id": 131,
+        "name": "整合科学专业",
+        "context": "Faced with the increasing demand for integrated scientific talents internationally, the Integrated Science major focuses on the study of fundamental disciplines such as physics, chemistry, biology, and mathematics. It emphasizes students' understanding of related interdisciplinary knowledge and awareness of cutting-edge research. In the field of integrated science, it strengthens the cultivation of students' independent innovative ability and practical research ability. The curriculum of this major covers multiple aspects such as physics, chemistry, biology, and mathematics. In the first two years of enrollment, students receive unified teaching of basic knowledge in different disciplines. Starting from the third year, students choose their development direction based on their own interests under the guidance of a supervisor. The cross-department mentor group of integrated science designs a personalized training system for students, providing specialized training (including research training and practical teaching) to complete the teaching plan.",
+        "ann": [
+            452,
+            774,
+            775,
+            776,
+            777,
+            92,
+            93
+        ],
+        "zh_context": "面对国际上对整合科学人才日益增加的需求,整合科学专业注重在物理学、化学、生 物学、数学等基础学科的专业知识学习的基础上,强调学生对相关交叉学科知识的理解和 前沿研究的认识,在整合科学方面强化对学生自主创新能力和实践科研能力的培养。本专 业的课程涉及物理、化学、生物、数学等多个方面,学生在入学的前两年接受统一的不同 学科的基础知识教学。从三年级开始,学生根据自己的兴趣,在导师的指导下选择发展方 向。整合科学的跨院系导师组为学生设计个性化的培养体系,对学生进行专项的培养 (包 括科研训练、实践教学的部分),完成教学计划。"
+    },
+    {
+        "id": 132,
+        "name": "航空航天工程 航空科学与技术方向",
+        "context": "This major cultivates high-quality talents in the field of aerospace with a solid theoretical foundation, extensive professional knowledge, strong comprehensive abilities, and innovative consciousness. Graduates can directly enter research institutes and engineering units in the aerospace field, or continue to pursue further studies in related majors such as aerospace science and technology and mechanics.",
+        "ann": [
+            462,
+            721,
+            786,
+            728,
+            94
+        ],
+        "zh_context": "本专业培养具有坚实的理论基础、广博的专业知识、良好的综合能力和富有创新意 识,具有很强动手能力的航空航天领域高素质人才。毕业生可直接进入航空航天领域的科 研院所和工程单位工作,也可在航空航天科学与技术、力学等相关专业继续深造。 "
+    }
+]
